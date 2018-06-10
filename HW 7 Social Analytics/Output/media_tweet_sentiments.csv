@@ -1,3 +1,591 @@
+<<<<<<< HEAD
+Compound,Date,Negative,Neutral,Positive,Text,Tweets_Ago,Username
+-0.4767,Sun Jun 10 20:03:02 +0000 2018,0.846,0.154,0.0,The Manhattan Beach Police Department has released Vince Vaughn's mugshot after the actor was arrested early Sunday… https://t.co/2vyNhqBce7,1,@FoxNews
+0.6249,Sun Jun 10 20:00:01 +0000 2018,0.688,0.073,0.239,".@marykissel: ""A success in Singapore would be to get the [Kim] regime to commit to complete, irreversible and veri… https://t.co/nwKaTi5Ru5",2,@FoxNews
+0.0,Sun Jun 10 19:55:00 +0000 2018,1.0,0.0,0.0,U.S. markets so far this year. https://t.co/fCBGjMuLwc,3,@FoxNews
+-0.4404,Sun Jun 10 19:46:35 +0000 2018,0.674,0.326,0.0,Coyote attacks teenager in Massachusetts: report https://t.co/QQjxggwTKg,4,@FoxNews
+-0.0772,Sun Jun 10 19:45:07 +0000 2018,0.695,0.16,0.144,Pilot who landed plane after co-pilot was 'sucked halfway' out cockpit window awarded $777G https://t.co/YKTnHspgOl,5,@FoxNews
+-0.5859,Sun Jun 10 19:45:00 +0000 2018,0.609,0.278,0.113,".@VP on Singapore summit: ""After years of failed policies and broken promises last year, President @realDonaldTrump… https://t.co/PszsXnHxFg",6,@FoxNews
+0.0,Sun Jun 10 19:44:16 +0000 2018,1.0,0.0,0.0,RT @EricShawnTV: I anchor at 4pm @FoxNews along with @ArthelNeville.  The Hillary Clinton e-mail investigation. What do you think I.G. Mich…,7,@FoxNews
+-0.765,Sun Jun 10 19:29:18 +0000 2018,0.513,0.487,0.0,"Vince Vaughn arrested in California on DUI, resisting arrest charges
+https://t.co/EyHDSN5rTn",8,@FoxNews
+0.0,Sun Jun 10 19:20:47 +0000 2018,1.0,0.0,0.0,"""Our president is on schedule to forge a relationship with North Korea in Singapore that will cause Pyongyang to di… https://t.co/E3mEoGFTCM",9,@FoxNews
+0.3612,Sun Jun 10 19:14:32 +0000 2018,0.884,0.0,0.116,".@POTUS: ""Tariffs are going to come way down... We're like the piggy bank that everybody's robbing - and that ends. https://t.co/9E45R5cGbh",10,@FoxNews
+-0.5994,Sun Jun 10 19:13:45 +0000 2018,0.782,0.218,0.0,".@SecretaryZinke: ""We could end the war. It's absolutely astonishing what @POTUS has done."" #Cavuto https://t.co/avnlrYyToR",11,@FoxNews
+-0.7906,Sun Jun 10 19:04:55 +0000 2018,0.562,0.438,0.0,"Ohio house explosion leaves 1 dead, another critically injured, officials say https://t.co/hwK1pWGgRl",12,@FoxNews
+-0.296,Sun Jun 10 18:55:34 +0000 2018,0.699,0.183,0.118,.@amazon admits to labor violations at factory in China after watchdog investigation - via @christocarbone https://t.co/kMF59CY2HQ,13,@FoxNews
+-0.3818,Sun Jun 10 18:51:38 +0000 2018,0.49,0.265,0.245,"Peter Navarro: ""There's a special place in hell for any foreign leader that engages in bad faith diplomacy with Pre… https://t.co/On3hlDARMA",14,@FoxNews
+-0.7579,Sun Jun 10 18:43:32 +0000 2018,0.667,0.333,0.0,"Sen. @OrrinHatch: North Korea should abandon human rights abuses in addition to its nukes 
+https://t.co/7R9ZNNMMal",15,@FoxNews
+-0.5267,Sun Jun 10 18:37:19 +0000 2018,0.746,0.254,0.0,Dem Strategist Slams Trump's 'Behavior' in Office: He's a 'Raging Narcissist' https://t.co/zEkZAfl2ir,16,@FoxNews
+-0.6369,Sun Jun 10 18:30:29 +0000 2018,0.634,0.366,0.0,"Lawyer in pasta assault must pay woman $103G, jury says https://t.co/p4iuYPLyy7",17,@FoxNews
+0.0,Sun Jun 10 18:26:00 +0000 2018,1.0,0.0,0.0,TONIGHT: @BretBaier is live in Singapore ahead of President @realDonaldTrump’s historic summit with North Korean le… https://t.co/53IvHMeakp,18,@FoxNews
+-0.5719,Sun Jun 10 18:09:05 +0000 2018,0.583,0.291,0.126,"'Dancing' Georgia doctor is suspended by medical board for being a threat to public health, safety https://t.co/8xbdDJNUNp",19,@FoxNews
+0.0,Sun Jun 10 17:58:00 +0000 2018,1.0,0.0,0.0,Woman dies 10 days after her husband of 46 years passes away https://t.co/g5mYqSgycG,20,@FoxNews
+-0.4767,Sun Jun 10 20:03:02 +0000 2018,0.846,0.154,0.0,The Manhattan Beach Police Department has released Vince Vaughn's mugshot after the actor was arrested early Sunday… https://t.co/2vyNhqBce7,21,@FoxNews
+0.6249,Sun Jun 10 20:00:01 +0000 2018,0.688,0.073,0.239,".@marykissel: ""A success in Singapore would be to get the [Kim] regime to commit to complete, irreversible and veri… https://t.co/nwKaTi5Ru5",22,@FoxNews
+0.0,Sun Jun 10 19:55:00 +0000 2018,1.0,0.0,0.0,U.S. markets so far this year. https://t.co/fCBGjMuLwc,23,@FoxNews
+-0.4404,Sun Jun 10 19:46:35 +0000 2018,0.674,0.326,0.0,Coyote attacks teenager in Massachusetts: report https://t.co/QQjxggwTKg,24,@FoxNews
+-0.0772,Sun Jun 10 19:45:07 +0000 2018,0.695,0.16,0.144,Pilot who landed plane after co-pilot was 'sucked halfway' out cockpit window awarded $777G https://t.co/YKTnHspgOl,25,@FoxNews
+-0.5859,Sun Jun 10 19:45:00 +0000 2018,0.609,0.278,0.113,".@VP on Singapore summit: ""After years of failed policies and broken promises last year, President @realDonaldTrump… https://t.co/PszsXnHxFg",26,@FoxNews
+0.0,Sun Jun 10 19:44:16 +0000 2018,1.0,0.0,0.0,RT @EricShawnTV: I anchor at 4pm @FoxNews along with @ArthelNeville.  The Hillary Clinton e-mail investigation. What do you think I.G. Mich…,27,@FoxNews
+-0.765,Sun Jun 10 19:29:18 +0000 2018,0.513,0.487,0.0,"Vince Vaughn arrested in California on DUI, resisting arrest charges
+https://t.co/EyHDSN5rTn",28,@FoxNews
+0.0,Sun Jun 10 19:20:47 +0000 2018,1.0,0.0,0.0,"""Our president is on schedule to forge a relationship with North Korea in Singapore that will cause Pyongyang to di… https://t.co/E3mEoGFTCM",29,@FoxNews
+0.3612,Sun Jun 10 19:14:32 +0000 2018,0.884,0.0,0.116,".@POTUS: ""Tariffs are going to come way down... We're like the piggy bank that everybody's robbing - and that ends. https://t.co/9E45R5cGbh",30,@FoxNews
+-0.5994,Sun Jun 10 19:13:45 +0000 2018,0.782,0.218,0.0,".@SecretaryZinke: ""We could end the war. It's absolutely astonishing what @POTUS has done."" #Cavuto https://t.co/avnlrYyToR",31,@FoxNews
+-0.7906,Sun Jun 10 19:04:55 +0000 2018,0.562,0.438,0.0,"Ohio house explosion leaves 1 dead, another critically injured, officials say https://t.co/hwK1pWGgRl",32,@FoxNews
+-0.296,Sun Jun 10 18:55:34 +0000 2018,0.699,0.183,0.118,.@amazon admits to labor violations at factory in China after watchdog investigation - via @christocarbone https://t.co/kMF59CY2HQ,33,@FoxNews
+-0.3818,Sun Jun 10 18:51:38 +0000 2018,0.49,0.265,0.245,"Peter Navarro: ""There's a special place in hell for any foreign leader that engages in bad faith diplomacy with Pre… https://t.co/On3hlDARMA",34,@FoxNews
+-0.7579,Sun Jun 10 18:43:32 +0000 2018,0.667,0.333,0.0,"Sen. @OrrinHatch: North Korea should abandon human rights abuses in addition to its nukes 
+https://t.co/7R9ZNNMMal",35,@FoxNews
+-0.5267,Sun Jun 10 18:37:19 +0000 2018,0.746,0.254,0.0,Dem Strategist Slams Trump's 'Behavior' in Office: He's a 'Raging Narcissist' https://t.co/zEkZAfl2ir,36,@FoxNews
+-0.6369,Sun Jun 10 18:30:29 +0000 2018,0.634,0.366,0.0,"Lawyer in pasta assault must pay woman $103G, jury says https://t.co/p4iuYPLyy7",37,@FoxNews
+0.0,Sun Jun 10 18:26:00 +0000 2018,1.0,0.0,0.0,TONIGHT: @BretBaier is live in Singapore ahead of President @realDonaldTrump’s historic summit with North Korean le… https://t.co/53IvHMeakp,38,@FoxNews
+-0.5719,Sun Jun 10 18:09:05 +0000 2018,0.583,0.291,0.126,"'Dancing' Georgia doctor is suspended by medical board for being a threat to public health, safety https://t.co/8xbdDJNUNp",39,@FoxNews
+0.0,Sun Jun 10 17:58:00 +0000 2018,1.0,0.0,0.0,Woman dies 10 days after her husband of 46 years passes away https://t.co/g5mYqSgycG,40,@FoxNews
+-0.4767,Sun Jun 10 20:03:02 +0000 2018,0.846,0.154,0.0,The Manhattan Beach Police Department has released Vince Vaughn's mugshot after the actor was arrested early Sunday… https://t.co/2vyNhqBce7,41,@FoxNews
+0.6249,Sun Jun 10 20:00:01 +0000 2018,0.688,0.073,0.239,".@marykissel: ""A success in Singapore would be to get the [Kim] regime to commit to complete, irreversible and veri… https://t.co/nwKaTi5Ru5",42,@FoxNews
+0.0,Sun Jun 10 19:55:00 +0000 2018,1.0,0.0,0.0,U.S. markets so far this year. https://t.co/fCBGjMuLwc,43,@FoxNews
+-0.4404,Sun Jun 10 19:46:35 +0000 2018,0.674,0.326,0.0,Coyote attacks teenager in Massachusetts: report https://t.co/QQjxggwTKg,44,@FoxNews
+-0.0772,Sun Jun 10 19:45:07 +0000 2018,0.695,0.16,0.144,Pilot who landed plane after co-pilot was 'sucked halfway' out cockpit window awarded $777G https://t.co/YKTnHspgOl,45,@FoxNews
+-0.5859,Sun Jun 10 19:45:00 +0000 2018,0.609,0.278,0.113,".@VP on Singapore summit: ""After years of failed policies and broken promises last year, President @realDonaldTrump… https://t.co/PszsXnHxFg",46,@FoxNews
+0.0,Sun Jun 10 19:44:16 +0000 2018,1.0,0.0,0.0,RT @EricShawnTV: I anchor at 4pm @FoxNews along with @ArthelNeville.  The Hillary Clinton e-mail investigation. What do you think I.G. Mich…,47,@FoxNews
+-0.765,Sun Jun 10 19:29:18 +0000 2018,0.513,0.487,0.0,"Vince Vaughn arrested in California on DUI, resisting arrest charges
+https://t.co/EyHDSN5rTn",48,@FoxNews
+0.0,Sun Jun 10 19:20:47 +0000 2018,1.0,0.0,0.0,"""Our president is on schedule to forge a relationship with North Korea in Singapore that will cause Pyongyang to di… https://t.co/E3mEoGFTCM",49,@FoxNews
+0.3612,Sun Jun 10 19:14:32 +0000 2018,0.884,0.0,0.116,".@POTUS: ""Tariffs are going to come way down... We're like the piggy bank that everybody's robbing - and that ends. https://t.co/9E45R5cGbh",50,@FoxNews
+-0.5994,Sun Jun 10 19:13:45 +0000 2018,0.782,0.218,0.0,".@SecretaryZinke: ""We could end the war. It's absolutely astonishing what @POTUS has done."" #Cavuto https://t.co/avnlrYyToR",51,@FoxNews
+-0.7906,Sun Jun 10 19:04:55 +0000 2018,0.562,0.438,0.0,"Ohio house explosion leaves 1 dead, another critically injured, officials say https://t.co/hwK1pWGgRl",52,@FoxNews
+-0.296,Sun Jun 10 18:55:34 +0000 2018,0.699,0.183,0.118,.@amazon admits to labor violations at factory in China after watchdog investigation - via @christocarbone https://t.co/kMF59CY2HQ,53,@FoxNews
+-0.3818,Sun Jun 10 18:51:38 +0000 2018,0.49,0.265,0.245,"Peter Navarro: ""There's a special place in hell for any foreign leader that engages in bad faith diplomacy with Pre… https://t.co/On3hlDARMA",54,@FoxNews
+-0.7579,Sun Jun 10 18:43:32 +0000 2018,0.667,0.333,0.0,"Sen. @OrrinHatch: North Korea should abandon human rights abuses in addition to its nukes 
+https://t.co/7R9ZNNMMal",55,@FoxNews
+-0.5267,Sun Jun 10 18:37:19 +0000 2018,0.746,0.254,0.0,Dem Strategist Slams Trump's 'Behavior' in Office: He's a 'Raging Narcissist' https://t.co/zEkZAfl2ir,56,@FoxNews
+-0.6369,Sun Jun 10 18:30:29 +0000 2018,0.634,0.366,0.0,"Lawyer in pasta assault must pay woman $103G, jury says https://t.co/p4iuYPLyy7",57,@FoxNews
+0.0,Sun Jun 10 18:26:00 +0000 2018,1.0,0.0,0.0,TONIGHT: @BretBaier is live in Singapore ahead of President @realDonaldTrump’s historic summit with North Korean le… https://t.co/53IvHMeakp,58,@FoxNews
+-0.5719,Sun Jun 10 18:09:05 +0000 2018,0.583,0.291,0.126,"'Dancing' Georgia doctor is suspended by medical board for being a threat to public health, safety https://t.co/8xbdDJNUNp",59,@FoxNews
+0.0,Sun Jun 10 17:58:00 +0000 2018,1.0,0.0,0.0,Woman dies 10 days after her husband of 46 years passes away https://t.co/g5mYqSgycG,60,@FoxNews
+-0.4767,Sun Jun 10 20:03:02 +0000 2018,0.846,0.154,0.0,The Manhattan Beach Police Department has released Vince Vaughn's mugshot after the actor was arrested early Sunday… https://t.co/2vyNhqBce7,61,@FoxNews
+0.6249,Sun Jun 10 20:00:01 +0000 2018,0.688,0.073,0.239,".@marykissel: ""A success in Singapore would be to get the [Kim] regime to commit to complete, irreversible and veri… https://t.co/nwKaTi5Ru5",62,@FoxNews
+0.0,Sun Jun 10 19:55:00 +0000 2018,1.0,0.0,0.0,U.S. markets so far this year. https://t.co/fCBGjMuLwc,63,@FoxNews
+-0.4404,Sun Jun 10 19:46:35 +0000 2018,0.674,0.326,0.0,Coyote attacks teenager in Massachusetts: report https://t.co/QQjxggwTKg,64,@FoxNews
+-0.0772,Sun Jun 10 19:45:07 +0000 2018,0.695,0.16,0.144,Pilot who landed plane after co-pilot was 'sucked halfway' out cockpit window awarded $777G https://t.co/YKTnHspgOl,65,@FoxNews
+-0.5859,Sun Jun 10 19:45:00 +0000 2018,0.609,0.278,0.113,".@VP on Singapore summit: ""After years of failed policies and broken promises last year, President @realDonaldTrump… https://t.co/PszsXnHxFg",66,@FoxNews
+0.0,Sun Jun 10 19:44:16 +0000 2018,1.0,0.0,0.0,RT @EricShawnTV: I anchor at 4pm @FoxNews along with @ArthelNeville.  The Hillary Clinton e-mail investigation. What do you think I.G. Mich…,67,@FoxNews
+-0.765,Sun Jun 10 19:29:18 +0000 2018,0.513,0.487,0.0,"Vince Vaughn arrested in California on DUI, resisting arrest charges
+https://t.co/EyHDSN5rTn",68,@FoxNews
+0.0,Sun Jun 10 19:20:47 +0000 2018,1.0,0.0,0.0,"""Our president is on schedule to forge a relationship with North Korea in Singapore that will cause Pyongyang to di… https://t.co/E3mEoGFTCM",69,@FoxNews
+0.3612,Sun Jun 10 19:14:32 +0000 2018,0.884,0.0,0.116,".@POTUS: ""Tariffs are going to come way down... We're like the piggy bank that everybody's robbing - and that ends. https://t.co/9E45R5cGbh",70,@FoxNews
+-0.5994,Sun Jun 10 19:13:45 +0000 2018,0.782,0.218,0.0,".@SecretaryZinke: ""We could end the war. It's absolutely astonishing what @POTUS has done."" #Cavuto https://t.co/avnlrYyToR",71,@FoxNews
+-0.7906,Sun Jun 10 19:04:55 +0000 2018,0.562,0.438,0.0,"Ohio house explosion leaves 1 dead, another critically injured, officials say https://t.co/hwK1pWGgRl",72,@FoxNews
+-0.296,Sun Jun 10 18:55:34 +0000 2018,0.699,0.183,0.118,.@amazon admits to labor violations at factory in China after watchdog investigation - via @christocarbone https://t.co/kMF59CY2HQ,73,@FoxNews
+-0.3818,Sun Jun 10 18:51:38 +0000 2018,0.49,0.265,0.245,"Peter Navarro: ""There's a special place in hell for any foreign leader that engages in bad faith diplomacy with Pre… https://t.co/On3hlDARMA",74,@FoxNews
+-0.7579,Sun Jun 10 18:43:32 +0000 2018,0.667,0.333,0.0,"Sen. @OrrinHatch: North Korea should abandon human rights abuses in addition to its nukes 
+https://t.co/7R9ZNNMMal",75,@FoxNews
+-0.5267,Sun Jun 10 18:37:19 +0000 2018,0.746,0.254,0.0,Dem Strategist Slams Trump's 'Behavior' in Office: He's a 'Raging Narcissist' https://t.co/zEkZAfl2ir,76,@FoxNews
+-0.6369,Sun Jun 10 18:30:29 +0000 2018,0.634,0.366,0.0,"Lawyer in pasta assault must pay woman $103G, jury says https://t.co/p4iuYPLyy7",77,@FoxNews
+0.0,Sun Jun 10 18:26:00 +0000 2018,1.0,0.0,0.0,TONIGHT: @BretBaier is live in Singapore ahead of President @realDonaldTrump’s historic summit with North Korean le… https://t.co/53IvHMeakp,78,@FoxNews
+-0.5719,Sun Jun 10 18:09:05 +0000 2018,0.583,0.291,0.126,"'Dancing' Georgia doctor is suspended by medical board for being a threat to public health, safety https://t.co/8xbdDJNUNp",79,@FoxNews
+0.0,Sun Jun 10 17:58:00 +0000 2018,1.0,0.0,0.0,Woman dies 10 days after her husband of 46 years passes away https://t.co/g5mYqSgycG,80,@FoxNews
+-0.4767,Sun Jun 10 20:03:02 +0000 2018,0.846,0.154,0.0,The Manhattan Beach Police Department has released Vince Vaughn's mugshot after the actor was arrested early Sunday… https://t.co/2vyNhqBce7,81,@FoxNews
+0.6249,Sun Jun 10 20:00:01 +0000 2018,0.688,0.073,0.239,".@marykissel: ""A success in Singapore would be to get the [Kim] regime to commit to complete, irreversible and veri… https://t.co/nwKaTi5Ru5",82,@FoxNews
+0.0,Sun Jun 10 19:55:00 +0000 2018,1.0,0.0,0.0,U.S. markets so far this year. https://t.co/fCBGjMuLwc,83,@FoxNews
+-0.4404,Sun Jun 10 19:46:35 +0000 2018,0.674,0.326,0.0,Coyote attacks teenager in Massachusetts: report https://t.co/QQjxggwTKg,84,@FoxNews
+-0.0772,Sun Jun 10 19:45:07 +0000 2018,0.695,0.16,0.144,Pilot who landed plane after co-pilot was 'sucked halfway' out cockpit window awarded $777G https://t.co/YKTnHspgOl,85,@FoxNews
+-0.5859,Sun Jun 10 19:45:00 +0000 2018,0.609,0.278,0.113,".@VP on Singapore summit: ""After years of failed policies and broken promises last year, President @realDonaldTrump… https://t.co/PszsXnHxFg",86,@FoxNews
+0.0,Sun Jun 10 19:44:16 +0000 2018,1.0,0.0,0.0,RT @EricShawnTV: I anchor at 4pm @FoxNews along with @ArthelNeville.  The Hillary Clinton e-mail investigation. What do you think I.G. Mich…,87,@FoxNews
+-0.765,Sun Jun 10 19:29:18 +0000 2018,0.513,0.487,0.0,"Vince Vaughn arrested in California on DUI, resisting arrest charges
+https://t.co/EyHDSN5rTn",88,@FoxNews
+0.0,Sun Jun 10 19:20:47 +0000 2018,1.0,0.0,0.0,"""Our president is on schedule to forge a relationship with North Korea in Singapore that will cause Pyongyang to di… https://t.co/E3mEoGFTCM",89,@FoxNews
+0.3612,Sun Jun 10 19:14:32 +0000 2018,0.884,0.0,0.116,".@POTUS: ""Tariffs are going to come way down... We're like the piggy bank that everybody's robbing - and that ends. https://t.co/9E45R5cGbh",90,@FoxNews
+-0.5994,Sun Jun 10 19:13:45 +0000 2018,0.782,0.218,0.0,".@SecretaryZinke: ""We could end the war. It's absolutely astonishing what @POTUS has done."" #Cavuto https://t.co/avnlrYyToR",91,@FoxNews
+-0.7906,Sun Jun 10 19:04:55 +0000 2018,0.562,0.438,0.0,"Ohio house explosion leaves 1 dead, another critically injured, officials say https://t.co/hwK1pWGgRl",92,@FoxNews
+-0.296,Sun Jun 10 18:55:34 +0000 2018,0.699,0.183,0.118,.@amazon admits to labor violations at factory in China after watchdog investigation - via @christocarbone https://t.co/kMF59CY2HQ,93,@FoxNews
+-0.3818,Sun Jun 10 18:51:38 +0000 2018,0.49,0.265,0.245,"Peter Navarro: ""There's a special place in hell for any foreign leader that engages in bad faith diplomacy with Pre… https://t.co/On3hlDARMA",94,@FoxNews
+-0.7579,Sun Jun 10 18:43:32 +0000 2018,0.667,0.333,0.0,"Sen. @OrrinHatch: North Korea should abandon human rights abuses in addition to its nukes 
+https://t.co/7R9ZNNMMal",95,@FoxNews
+-0.5267,Sun Jun 10 18:37:19 +0000 2018,0.746,0.254,0.0,Dem Strategist Slams Trump's 'Behavior' in Office: He's a 'Raging Narcissist' https://t.co/zEkZAfl2ir,96,@FoxNews
+-0.6369,Sun Jun 10 18:30:29 +0000 2018,0.634,0.366,0.0,"Lawyer in pasta assault must pay woman $103G, jury says https://t.co/p4iuYPLyy7",97,@FoxNews
+0.0,Sun Jun 10 18:26:00 +0000 2018,1.0,0.0,0.0,TONIGHT: @BretBaier is live in Singapore ahead of President @realDonaldTrump’s historic summit with North Korean le… https://t.co/53IvHMeakp,98,@FoxNews
+-0.5719,Sun Jun 10 18:09:05 +0000 2018,0.583,0.291,0.126,"'Dancing' Georgia doctor is suspended by medical board for being a threat to public health, safety https://t.co/8xbdDJNUNp",99,@FoxNews
+0.0,Sun Jun 10 17:58:00 +0000 2018,1.0,0.0,0.0,Woman dies 10 days after her husband of 46 years passes away https://t.co/g5mYqSgycG,100,@FoxNews
+-0.34,Sun Jun 10 20:00:06 +0000 2018,0.854,0.146,0.0,Fire breaks out at Baghdad warehouse storing ballot boxes for Iraq's election recount https://t.co/65leVLxcvz https://t.co/JGiVWgPnsi,1,@CNN
+-0.1531,Sun Jun 10 19:50:09 +0000 2018,0.81,0.11,0.081,Canadian Foreign Minister Chrystia Freeland on the growing trade tension between the US and Canada: “Canada does no… https://t.co/9DpsSIPLFh,2,@CNN
+0.0,Sun Jun 10 19:39:01 +0000 2018,1.0,0.0,0.0,The end of net neutrality is here https://t.co/PjVzF4mXuw https://t.co/e8QznAvYRv,3,@CNN
+0.8225,Sun Jun 10 19:22:40 +0000 2018,0.664,0.0,0.336,White House senior advisers Ivanka Trump and Jared Kushner celebrated with Stanley Cup champion Washington Capitals… https://t.co/4LKAhbc9u9,4,@CNN
+-0.7906,Sun Jun 10 19:10:04 +0000 2018,0.682,0.318,0.0,"A house explosion in a suburban neighborhood of Cleveland left one person dead and another critically injured, Clev… https://t.co/eA4bsr7jpb",5,@CNN
+0.0,Sun Jun 10 19:00:19 +0000 2018,1.0,0.0,0.0,"Anthony Bourdain was a master — with food, and with language. This is the story of his life in his own words.… https://t.co/UNUKzwIPfg",6,@CNN
+0.0,Sun Jun 10 18:54:15 +0000 2018,1.0,0.0,0.0,"Sen. John McCain to US allies: ""Americans stand with you, even if our president doesn't."" https://t.co/A8ekLqjmeB https://t.co/TFBXwcwwd1",7,@CNN
+0.5859,Sun Jun 10 18:40:00 +0000 2018,0.703,0.074,0.223,"Tyler Soloman wiped tears of joy off his face after his father, who'd been deployed overseas, surprised Tyler by sh… https://t.co/nt4GZZ6DhF",8,@CNN
+0.3612,Sun Jun 10 18:30:07 +0000 2018,0.828,0.0,0.172,"Hey Corporate America, get ready for cybersecurity regulation in the US https://t.co/fb6YdWnybK https://t.co/56rK3SjAXy",9,@CNN
+0.0,Sun Jun 10 18:20:06 +0000 2018,1.0,0.0,0.0,"From real estate to diplomacy, Trump chases the ultimate deal in Singapore https://t.co/D5908EhGba https://t.co/Qx5PmQHbSz",10,@CNN
+-0.7128,Sun Jun 10 18:10:08 +0000 2018,0.716,0.284,0.0,Florida revoked almost 300 concealed weapons permits after discovering that a state employee failed to review crimi… https://t.co/KrSqDZcxqs,11,@CNN
+-0.802,Sun Jun 10 18:00:04 +0000 2018,0.714,0.286,0.0,"An immigrant detained for illegally attempting to enter the US killed himself in a Texas jail cell last month, acco… https://t.co/ND0rwMzsqY",12,@CNN
+0.0,Sun Jun 10 17:50:07 +0000 2018,1.0,0.0,0.0,"Pre-cut melon sold at Walmart and Kroger stores in Illinois, Indiana, Michigan, Missouri and Ohio has caused 60 peo… https://t.co/NwfvaVBy0U",13,@CNN
+0.34,Sun Jun 10 17:40:00 +0000 2018,0.893,0.0,0.107,Watch Kim Jong Un's security guards run alongside his car as he arrives in Singapore ahead of historic summit with… https://t.co/osY7MZ8JZA,14,@CNN
+-0.4588,Sun Jun 10 17:30:00 +0000 2018,0.857,0.143,0.0,"Organizers of a fashion show in Saudi Arabia used drones to display female clothes, drawing ridicule on social medi… https://t.co/tqw3q08q12",15,@CNN
+0.765,Sun Jun 10 17:20:06 +0000 2018,0.526,0.145,0.329,The race to save the Great Barrier Reef? A coral fertility treatment designed to help damaged parts of the reef is… https://t.co/XVzsbGIgPC,16,@CNN
+0.0,Sun Jun 10 17:09:04 +0000 2018,1.0,0.0,0.0,A Sikh soldier wore a turban in Queen Elizabeth ll's official birthday parade https://t.co/w1hbHqfcEj https://t.co/EovT94UY7B,17,@CNN
+0.0,Sun Jun 10 16:56:00 +0000 2018,1.0,0.0,0.0,"Folk singer Joni Mitchell wrote the song ""River"" while sitting by the South Saskatoon River in Canada. Now, a walkw… https://t.co/PtaDbdTYUl",18,@CNN
+-0.296,Sun Jun 10 16:44:57 +0000 2018,0.879,0.121,0.0,Canadian Prime Minister Justin Trudeau says he will impose retaliatory measures to answer President Trump's tariffs… https://t.co/m3UpWnilJp,19,@CNN
+-0.4404,Sun Jun 10 16:33:34 +0000 2018,0.687,0.197,0.116,"White House trade adviser Peter Navarro: ""There's a special place in hell"" for Canadian Prime Minister Justin Trude… https://t.co/2NlHi4tC5l",20,@CNN
+-0.34,Sun Jun 10 20:00:06 +0000 2018,0.854,0.146,0.0,Fire breaks out at Baghdad warehouse storing ballot boxes for Iraq's election recount https://t.co/65leVLxcvz https://t.co/JGiVWgPnsi,21,@CNN
+-0.1531,Sun Jun 10 19:50:09 +0000 2018,0.81,0.11,0.081,Canadian Foreign Minister Chrystia Freeland on the growing trade tension between the US and Canada: “Canada does no… https://t.co/9DpsSIPLFh,22,@CNN
+0.0,Sun Jun 10 19:39:01 +0000 2018,1.0,0.0,0.0,The end of net neutrality is here https://t.co/PjVzF4mXuw https://t.co/e8QznAvYRv,23,@CNN
+0.8225,Sun Jun 10 19:22:40 +0000 2018,0.664,0.0,0.336,White House senior advisers Ivanka Trump and Jared Kushner celebrated with Stanley Cup champion Washington Capitals… https://t.co/4LKAhbc9u9,24,@CNN
+-0.7906,Sun Jun 10 19:10:04 +0000 2018,0.682,0.318,0.0,"A house explosion in a suburban neighborhood of Cleveland left one person dead and another critically injured, Clev… https://t.co/eA4bsr7jpb",25,@CNN
+0.0,Sun Jun 10 19:00:19 +0000 2018,1.0,0.0,0.0,"Anthony Bourdain was a master — with food, and with language. This is the story of his life in his own words.… https://t.co/UNUKzwIPfg",26,@CNN
+0.0,Sun Jun 10 18:54:15 +0000 2018,1.0,0.0,0.0,"Sen. John McCain to US allies: ""Americans stand with you, even if our president doesn't."" https://t.co/A8ekLqjmeB https://t.co/TFBXwcwwd1",27,@CNN
+0.5859,Sun Jun 10 18:40:00 +0000 2018,0.703,0.074,0.223,"Tyler Soloman wiped tears of joy off his face after his father, who'd been deployed overseas, surprised Tyler by sh… https://t.co/nt4GZZ6DhF",28,@CNN
+0.3612,Sun Jun 10 18:30:07 +0000 2018,0.828,0.0,0.172,"Hey Corporate America, get ready for cybersecurity regulation in the US https://t.co/fb6YdWnybK https://t.co/56rK3SjAXy",29,@CNN
+0.0,Sun Jun 10 18:20:06 +0000 2018,1.0,0.0,0.0,"From real estate to diplomacy, Trump chases the ultimate deal in Singapore https://t.co/D5908EhGba https://t.co/Qx5PmQHbSz",30,@CNN
+-0.7128,Sun Jun 10 18:10:08 +0000 2018,0.716,0.284,0.0,Florida revoked almost 300 concealed weapons permits after discovering that a state employee failed to review crimi… https://t.co/KrSqDZcxqs,31,@CNN
+-0.802,Sun Jun 10 18:00:04 +0000 2018,0.714,0.286,0.0,"An immigrant detained for illegally attempting to enter the US killed himself in a Texas jail cell last month, acco… https://t.co/ND0rwMzsqY",32,@CNN
+0.0,Sun Jun 10 17:50:07 +0000 2018,1.0,0.0,0.0,"Pre-cut melon sold at Walmart and Kroger stores in Illinois, Indiana, Michigan, Missouri and Ohio has caused 60 peo… https://t.co/NwfvaVBy0U",33,@CNN
+0.34,Sun Jun 10 17:40:00 +0000 2018,0.893,0.0,0.107,Watch Kim Jong Un's security guards run alongside his car as he arrives in Singapore ahead of historic summit with… https://t.co/osY7MZ8JZA,34,@CNN
+-0.4588,Sun Jun 10 17:30:00 +0000 2018,0.857,0.143,0.0,"Organizers of a fashion show in Saudi Arabia used drones to display female clothes, drawing ridicule on social medi… https://t.co/tqw3q08q12",35,@CNN
+0.765,Sun Jun 10 17:20:06 +0000 2018,0.526,0.145,0.329,The race to save the Great Barrier Reef? A coral fertility treatment designed to help damaged parts of the reef is… https://t.co/XVzsbGIgPC,36,@CNN
+0.0,Sun Jun 10 17:09:04 +0000 2018,1.0,0.0,0.0,A Sikh soldier wore a turban in Queen Elizabeth ll's official birthday parade https://t.co/w1hbHqfcEj https://t.co/EovT94UY7B,37,@CNN
+0.0,Sun Jun 10 16:56:00 +0000 2018,1.0,0.0,0.0,"Folk singer Joni Mitchell wrote the song ""River"" while sitting by the South Saskatoon River in Canada. Now, a walkw… https://t.co/PtaDbdTYUl",38,@CNN
+-0.296,Sun Jun 10 16:44:57 +0000 2018,0.879,0.121,0.0,Canadian Prime Minister Justin Trudeau says he will impose retaliatory measures to answer President Trump's tariffs… https://t.co/m3UpWnilJp,39,@CNN
+-0.4404,Sun Jun 10 16:33:34 +0000 2018,0.687,0.197,0.116,"White House trade adviser Peter Navarro: ""There's a special place in hell"" for Canadian Prime Minister Justin Trude… https://t.co/2NlHi4tC5l",40,@CNN
+-0.34,Sun Jun 10 20:00:06 +0000 2018,0.854,0.146,0.0,Fire breaks out at Baghdad warehouse storing ballot boxes for Iraq's election recount https://t.co/65leVLxcvz https://t.co/JGiVWgPnsi,41,@CNN
+-0.1531,Sun Jun 10 19:50:09 +0000 2018,0.81,0.11,0.081,Canadian Foreign Minister Chrystia Freeland on the growing trade tension between the US and Canada: “Canada does no… https://t.co/9DpsSIPLFh,42,@CNN
+0.0,Sun Jun 10 19:39:01 +0000 2018,1.0,0.0,0.0,The end of net neutrality is here https://t.co/PjVzF4mXuw https://t.co/e8QznAvYRv,43,@CNN
+0.8225,Sun Jun 10 19:22:40 +0000 2018,0.664,0.0,0.336,White House senior advisers Ivanka Trump and Jared Kushner celebrated with Stanley Cup champion Washington Capitals… https://t.co/4LKAhbc9u9,44,@CNN
+-0.7906,Sun Jun 10 19:10:04 +0000 2018,0.682,0.318,0.0,"A house explosion in a suburban neighborhood of Cleveland left one person dead and another critically injured, Clev… https://t.co/eA4bsr7jpb",45,@CNN
+0.0,Sun Jun 10 19:00:19 +0000 2018,1.0,0.0,0.0,"Anthony Bourdain was a master — with food, and with language. This is the story of his life in his own words.… https://t.co/UNUKzwIPfg",46,@CNN
+0.0,Sun Jun 10 18:54:15 +0000 2018,1.0,0.0,0.0,"Sen. John McCain to US allies: ""Americans stand with you, even if our president doesn't."" https://t.co/A8ekLqjmeB https://t.co/TFBXwcwwd1",47,@CNN
+0.5859,Sun Jun 10 18:40:00 +0000 2018,0.703,0.074,0.223,"Tyler Soloman wiped tears of joy off his face after his father, who'd been deployed overseas, surprised Tyler by sh… https://t.co/nt4GZZ6DhF",48,@CNN
+0.3612,Sun Jun 10 18:30:07 +0000 2018,0.828,0.0,0.172,"Hey Corporate America, get ready for cybersecurity regulation in the US https://t.co/fb6YdWnybK https://t.co/56rK3SjAXy",49,@CNN
+0.0,Sun Jun 10 18:20:06 +0000 2018,1.0,0.0,0.0,"From real estate to diplomacy, Trump chases the ultimate deal in Singapore https://t.co/D5908EhGba https://t.co/Qx5PmQHbSz",50,@CNN
+-0.7128,Sun Jun 10 18:10:08 +0000 2018,0.716,0.284,0.0,Florida revoked almost 300 concealed weapons permits after discovering that a state employee failed to review crimi… https://t.co/KrSqDZcxqs,51,@CNN
+-0.802,Sun Jun 10 18:00:04 +0000 2018,0.714,0.286,0.0,"An immigrant detained for illegally attempting to enter the US killed himself in a Texas jail cell last month, acco… https://t.co/ND0rwMzsqY",52,@CNN
+0.0,Sun Jun 10 17:50:07 +0000 2018,1.0,0.0,0.0,"Pre-cut melon sold at Walmart and Kroger stores in Illinois, Indiana, Michigan, Missouri and Ohio has caused 60 peo… https://t.co/NwfvaVBy0U",53,@CNN
+0.34,Sun Jun 10 17:40:00 +0000 2018,0.893,0.0,0.107,Watch Kim Jong Un's security guards run alongside his car as he arrives in Singapore ahead of historic summit with… https://t.co/osY7MZ8JZA,54,@CNN
+-0.4588,Sun Jun 10 17:30:00 +0000 2018,0.857,0.143,0.0,"Organizers of a fashion show in Saudi Arabia used drones to display female clothes, drawing ridicule on social medi… https://t.co/tqw3q08q12",55,@CNN
+0.765,Sun Jun 10 17:20:06 +0000 2018,0.526,0.145,0.329,The race to save the Great Barrier Reef? A coral fertility treatment designed to help damaged parts of the reef is… https://t.co/XVzsbGIgPC,56,@CNN
+0.0,Sun Jun 10 17:09:04 +0000 2018,1.0,0.0,0.0,A Sikh soldier wore a turban in Queen Elizabeth ll's official birthday parade https://t.co/w1hbHqfcEj https://t.co/EovT94UY7B,57,@CNN
+0.0,Sun Jun 10 16:56:00 +0000 2018,1.0,0.0,0.0,"Folk singer Joni Mitchell wrote the song ""River"" while sitting by the South Saskatoon River in Canada. Now, a walkw… https://t.co/PtaDbdTYUl",58,@CNN
+-0.296,Sun Jun 10 16:44:57 +0000 2018,0.879,0.121,0.0,Canadian Prime Minister Justin Trudeau says he will impose retaliatory measures to answer President Trump's tariffs… https://t.co/m3UpWnilJp,59,@CNN
+-0.4404,Sun Jun 10 16:33:34 +0000 2018,0.687,0.197,0.116,"White House trade adviser Peter Navarro: ""There's a special place in hell"" for Canadian Prime Minister Justin Trude… https://t.co/2NlHi4tC5l",60,@CNN
+-0.34,Sun Jun 10 20:00:06 +0000 2018,0.854,0.146,0.0,Fire breaks out at Baghdad warehouse storing ballot boxes for Iraq's election recount https://t.co/65leVLxcvz https://t.co/JGiVWgPnsi,61,@CNN
+-0.1531,Sun Jun 10 19:50:09 +0000 2018,0.81,0.11,0.081,Canadian Foreign Minister Chrystia Freeland on the growing trade tension between the US and Canada: “Canada does no… https://t.co/9DpsSIPLFh,62,@CNN
+0.0,Sun Jun 10 19:39:01 +0000 2018,1.0,0.0,0.0,The end of net neutrality is here https://t.co/PjVzF4mXuw https://t.co/e8QznAvYRv,63,@CNN
+0.8225,Sun Jun 10 19:22:40 +0000 2018,0.664,0.0,0.336,White House senior advisers Ivanka Trump and Jared Kushner celebrated with Stanley Cup champion Washington Capitals… https://t.co/4LKAhbc9u9,64,@CNN
+-0.7906,Sun Jun 10 19:10:04 +0000 2018,0.682,0.318,0.0,"A house explosion in a suburban neighborhood of Cleveland left one person dead and another critically injured, Clev… https://t.co/eA4bsr7jpb",65,@CNN
+0.0,Sun Jun 10 19:00:19 +0000 2018,1.0,0.0,0.0,"Anthony Bourdain was a master — with food, and with language. This is the story of his life in his own words.… https://t.co/UNUKzwIPfg",66,@CNN
+0.0,Sun Jun 10 18:54:15 +0000 2018,1.0,0.0,0.0,"Sen. John McCain to US allies: ""Americans stand with you, even if our president doesn't."" https://t.co/A8ekLqjmeB https://t.co/TFBXwcwwd1",67,@CNN
+0.5859,Sun Jun 10 18:40:00 +0000 2018,0.703,0.074,0.223,"Tyler Soloman wiped tears of joy off his face after his father, who'd been deployed overseas, surprised Tyler by sh… https://t.co/nt4GZZ6DhF",68,@CNN
+0.3612,Sun Jun 10 18:30:07 +0000 2018,0.828,0.0,0.172,"Hey Corporate America, get ready for cybersecurity regulation in the US https://t.co/fb6YdWnybK https://t.co/56rK3SjAXy",69,@CNN
+0.0,Sun Jun 10 18:20:06 +0000 2018,1.0,0.0,0.0,"From real estate to diplomacy, Trump chases the ultimate deal in Singapore https://t.co/D5908EhGba https://t.co/Qx5PmQHbSz",70,@CNN
+-0.7128,Sun Jun 10 18:10:08 +0000 2018,0.716,0.284,0.0,Florida revoked almost 300 concealed weapons permits after discovering that a state employee failed to review crimi… https://t.co/KrSqDZcxqs,71,@CNN
+-0.802,Sun Jun 10 18:00:04 +0000 2018,0.714,0.286,0.0,"An immigrant detained for illegally attempting to enter the US killed himself in a Texas jail cell last month, acco… https://t.co/ND0rwMzsqY",72,@CNN
+0.0,Sun Jun 10 17:50:07 +0000 2018,1.0,0.0,0.0,"Pre-cut melon sold at Walmart and Kroger stores in Illinois, Indiana, Michigan, Missouri and Ohio has caused 60 peo… https://t.co/NwfvaVBy0U",73,@CNN
+0.34,Sun Jun 10 17:40:00 +0000 2018,0.893,0.0,0.107,Watch Kim Jong Un's security guards run alongside his car as he arrives in Singapore ahead of historic summit with… https://t.co/osY7MZ8JZA,74,@CNN
+-0.4588,Sun Jun 10 17:30:00 +0000 2018,0.857,0.143,0.0,"Organizers of a fashion show in Saudi Arabia used drones to display female clothes, drawing ridicule on social medi… https://t.co/tqw3q08q12",75,@CNN
+0.765,Sun Jun 10 17:20:06 +0000 2018,0.526,0.145,0.329,The race to save the Great Barrier Reef? A coral fertility treatment designed to help damaged parts of the reef is… https://t.co/XVzsbGIgPC,76,@CNN
+0.0,Sun Jun 10 17:09:04 +0000 2018,1.0,0.0,0.0,A Sikh soldier wore a turban in Queen Elizabeth ll's official birthday parade https://t.co/w1hbHqfcEj https://t.co/EovT94UY7B,77,@CNN
+0.0,Sun Jun 10 16:56:00 +0000 2018,1.0,0.0,0.0,"Folk singer Joni Mitchell wrote the song ""River"" while sitting by the South Saskatoon River in Canada. Now, a walkw… https://t.co/PtaDbdTYUl",78,@CNN
+-0.296,Sun Jun 10 16:44:57 +0000 2018,0.879,0.121,0.0,Canadian Prime Minister Justin Trudeau says he will impose retaliatory measures to answer President Trump's tariffs… https://t.co/m3UpWnilJp,79,@CNN
+-0.4404,Sun Jun 10 16:33:34 +0000 2018,0.687,0.197,0.116,"White House trade adviser Peter Navarro: ""There's a special place in hell"" for Canadian Prime Minister Justin Trude… https://t.co/2NlHi4tC5l",80,@CNN
+-0.34,Sun Jun 10 20:00:06 +0000 2018,0.854,0.146,0.0,Fire breaks out at Baghdad warehouse storing ballot boxes for Iraq's election recount https://t.co/65leVLxcvz https://t.co/JGiVWgPnsi,81,@CNN
+-0.1531,Sun Jun 10 19:50:09 +0000 2018,0.81,0.11,0.081,Canadian Foreign Minister Chrystia Freeland on the growing trade tension between the US and Canada: “Canada does no… https://t.co/9DpsSIPLFh,82,@CNN
+0.0,Sun Jun 10 19:39:01 +0000 2018,1.0,0.0,0.0,The end of net neutrality is here https://t.co/PjVzF4mXuw https://t.co/e8QznAvYRv,83,@CNN
+0.8225,Sun Jun 10 19:22:40 +0000 2018,0.664,0.0,0.336,White House senior advisers Ivanka Trump and Jared Kushner celebrated with Stanley Cup champion Washington Capitals… https://t.co/4LKAhbc9u9,84,@CNN
+-0.7906,Sun Jun 10 19:10:04 +0000 2018,0.682,0.318,0.0,"A house explosion in a suburban neighborhood of Cleveland left one person dead and another critically injured, Clev… https://t.co/eA4bsr7jpb",85,@CNN
+0.0,Sun Jun 10 19:00:19 +0000 2018,1.0,0.0,0.0,"Anthony Bourdain was a master — with food, and with language. This is the story of his life in his own words.… https://t.co/UNUKzwIPfg",86,@CNN
+0.0,Sun Jun 10 18:54:15 +0000 2018,1.0,0.0,0.0,"Sen. John McCain to US allies: ""Americans stand with you, even if our president doesn't."" https://t.co/A8ekLqjmeB https://t.co/TFBXwcwwd1",87,@CNN
+0.5859,Sun Jun 10 18:40:00 +0000 2018,0.703,0.074,0.223,"Tyler Soloman wiped tears of joy off his face after his father, who'd been deployed overseas, surprised Tyler by sh… https://t.co/nt4GZZ6DhF",88,@CNN
+0.3612,Sun Jun 10 18:30:07 +0000 2018,0.828,0.0,0.172,"Hey Corporate America, get ready for cybersecurity regulation in the US https://t.co/fb6YdWnybK https://t.co/56rK3SjAXy",89,@CNN
+0.0,Sun Jun 10 18:20:06 +0000 2018,1.0,0.0,0.0,"From real estate to diplomacy, Trump chases the ultimate deal in Singapore https://t.co/D5908EhGba https://t.co/Qx5PmQHbSz",90,@CNN
+-0.7128,Sun Jun 10 18:10:08 +0000 2018,0.716,0.284,0.0,Florida revoked almost 300 concealed weapons permits after discovering that a state employee failed to review crimi… https://t.co/KrSqDZcxqs,91,@CNN
+-0.802,Sun Jun 10 18:00:04 +0000 2018,0.714,0.286,0.0,"An immigrant detained for illegally attempting to enter the US killed himself in a Texas jail cell last month, acco… https://t.co/ND0rwMzsqY",92,@CNN
+0.0,Sun Jun 10 17:50:07 +0000 2018,1.0,0.0,0.0,"Pre-cut melon sold at Walmart and Kroger stores in Illinois, Indiana, Michigan, Missouri and Ohio has caused 60 peo… https://t.co/NwfvaVBy0U",93,@CNN
+0.34,Sun Jun 10 17:40:00 +0000 2018,0.893,0.0,0.107,Watch Kim Jong Un's security guards run alongside his car as he arrives in Singapore ahead of historic summit with… https://t.co/osY7MZ8JZA,94,@CNN
+-0.4588,Sun Jun 10 17:30:00 +0000 2018,0.857,0.143,0.0,"Organizers of a fashion show in Saudi Arabia used drones to display female clothes, drawing ridicule on social medi… https://t.co/tqw3q08q12",95,@CNN
+0.765,Sun Jun 10 17:20:06 +0000 2018,0.526,0.145,0.329,The race to save the Great Barrier Reef? A coral fertility treatment designed to help damaged parts of the reef is… https://t.co/XVzsbGIgPC,96,@CNN
+0.0,Sun Jun 10 17:09:04 +0000 2018,1.0,0.0,0.0,A Sikh soldier wore a turban in Queen Elizabeth ll's official birthday parade https://t.co/w1hbHqfcEj https://t.co/EovT94UY7B,97,@CNN
+0.0,Sun Jun 10 16:56:00 +0000 2018,1.0,0.0,0.0,"Folk singer Joni Mitchell wrote the song ""River"" while sitting by the South Saskatoon River in Canada. Now, a walkw… https://t.co/PtaDbdTYUl",98,@CNN
+-0.296,Sun Jun 10 16:44:57 +0000 2018,0.879,0.121,0.0,Canadian Prime Minister Justin Trudeau says he will impose retaliatory measures to answer President Trump's tariffs… https://t.co/m3UpWnilJp,99,@CNN
+-0.4404,Sun Jun 10 16:33:34 +0000 2018,0.687,0.197,0.116,"White House trade adviser Peter Navarro: ""There's a special place in hell"" for Canadian Prime Minister Justin Trude… https://t.co/2NlHi4tC5l",100,@CNN
+-0.1526,Sun Jun 10 20:00:11 +0000 2018,0.748,0.14,0.112,"While Ocean's 8 easily took first place at the box office, its opening is not an unmitigated success https://t.co/2LKE54rGj3",1,@nytimes
+0.7906,Sun Jun 10 19:45:05 +0000 2018,0.682,0.0,0.318,How do you capture the essence of love in New York? The answer is in a kiss. https://t.co/44ttmZKJGJ,2,@nytimes
+0.0,Sun Jun 10 19:33:38 +0000 2018,1.0,0.0,0.0,"RT @MichaelPaulson: Tonight is @TheTonyAwards. You’ll hear @springsteen, @joshgroban and @SaraBareilles, see Tina Fey and @amyschumer, and…",3,@nytimes
+-0.7269,Sun Jun 10 19:30:02 +0000 2018,0.66,0.254,0.086,"At 16, she already might be the best high school runner ever. But can Katelyn Tuohy avoid one of the cruelest reali… https://t.co/netHDmILgM",4,@nytimes
+0.2732,Sun Jun 10 19:15:07 +0000 2018,0.905,0.0,0.095,"Paul D. Boyer, a Nobel laureate who explored how organisms get energy from their environments and use it to keep th… https://t.co/dpJ0sFx53v",5,@nytimes
+0.5423,Sun Jun 10 19:00:06 +0000 2018,0.811,0.0,0.189,"A peace treaty before denuclearization would be a tremendous victory for the North Koreans, says a Georgetown profe… https://t.co/rCRL2bxu1h",6,@nytimes
+0.0,Sun Jun 10 18:45:07 +0000 2018,1.0,0.0,0.0,"Disney’s offer to buy 21st Century Fox. CVS’s bid for Aetna. T-Mobile’s proposed merger with Sprint.
+
+The path for… https://t.co/hPdlfBbyGy",7,@nytimes
+0.0,Sun Jun 10 18:30:05 +0000 2018,1.0,0.0,0.0,Here are a few ideas for what you should cook this week https://t.co/zdsVfmc70S,8,@nytimes
+0.0,Sun Jun 10 18:15:04 +0000 2018,1.0,0.0,0.0,"In Opinion
+
+Op-Ed contributor Laurence Maslon writes, ""To paraphrase a family-friendly musical from 1960, “Bye Bye… https://t.co/S9h2EM0YNO",9,@nytimes
+0.5267,Sun Jun 10 18:00:02 +0000 2018,0.672,0.082,0.246,The new corporate tax cuts are unlikely to stimulate the level of job creation and wage growth that the Trump admin… https://t.co/25gPuZqrg4,10,@nytimes
+-0.296,Sun Jun 10 17:45:05 +0000 2018,0.891,0.109,0.0,"Leaders in Beijing are worried, experts say, that Kim Jong-un might try to counterbalance China’s influence by embr… https://t.co/0m71lmRjOM",11,@nytimes
+-0.8481,Sun Jun 10 17:30:07 +0000 2018,0.647,0.353,0.0,"A garbage-fueled tsunami killed 2 Indians. “If this continues to happen, the city will drown in its waste.” https://t.co/fquliVjdY8",12,@nytimes
+0.0,Sun Jun 10 17:15:08 +0000 2018,1.0,0.0,0.0,A Honduran man who was told he would be separated from his family after he had crossed the border into Texas strang… https://t.co/icGjtcKwnS,13,@nytimes
+-0.1779,Sun Jun 10 17:00:05 +0000 2018,0.922,0.078,0.0,"“My grandfather had to hide from the Nazis in a salt mine,” says a woman born in Poland, who is seeking restitution… https://t.co/x79vBG1fBV",14,@nytimes
+0.0,Sun Jun 10 16:45:04 +0000 2018,1.0,0.0,0.0,"In Opinion 
+
+Op-Ed contributor Mona Hanna-Attisha writes, ""One of the lessons of Flint is that science and public h… https://t.co/y7UHnSYqw1",15,@nytimes
+-0.5859,Sun Jun 10 16:30:12 +0000 2018,0.769,0.231,0.0,Documents released in a lawsuit attempting to block the inclusion of a question about citizenship in the 2020 censu… https://t.co/jLI5ctDxXS,16,@nytimes
+0.0382,Sun Jun 10 16:15:03 +0000 2018,0.948,0.0,0.052,"To many, Mitt Romney's earnestness now qualifies as refreshing. He does not swear. He does not drink. He does not a… https://t.co/EiHDOuc97v",17,@nytimes
+0.8176,Sun Jun 10 16:06:44 +0000 2018,0.638,0.0,0.362,"Breaking News: Rafael Nadal won his 11th French Open title, triumphing over a young challenger, Dominic Thiem, and… https://t.co/sRJWDg0wD8",18,@nytimes
+0.4767,Sun Jun 10 16:00:10 +0000 2018,0.731,0.064,0.205,"Corruption has gutted South Africa's tax agency. The hard lesson: When leaders resist paying their fair share, ordi… https://t.co/x2bDF6IoBr",19,@nytimes
+0.0,Sun Jun 10 15:45:08 +0000 2018,1.0,0.0,0.0,"The summit meeting in Singapore, resuscitated at the last minute, will be the first between an American president a… https://t.co/52H8JdnSGV",20,@nytimes
+-0.1526,Sun Jun 10 20:00:11 +0000 2018,0.748,0.14,0.112,"While Ocean's 8 easily took first place at the box office, its opening is not an unmitigated success https://t.co/2LKE54rGj3",21,@nytimes
+0.7906,Sun Jun 10 19:45:05 +0000 2018,0.682,0.0,0.318,How do you capture the essence of love in New York? The answer is in a kiss. https://t.co/44ttmZKJGJ,22,@nytimes
+0.0,Sun Jun 10 19:33:38 +0000 2018,1.0,0.0,0.0,"RT @MichaelPaulson: Tonight is @TheTonyAwards. You’ll hear @springsteen, @joshgroban and @SaraBareilles, see Tina Fey and @amyschumer, and…",23,@nytimes
+-0.7269,Sun Jun 10 19:30:02 +0000 2018,0.66,0.254,0.086,"At 16, she already might be the best high school runner ever. But can Katelyn Tuohy avoid one of the cruelest reali… https://t.co/netHDmILgM",24,@nytimes
+0.2732,Sun Jun 10 19:15:07 +0000 2018,0.905,0.0,0.095,"Paul D. Boyer, a Nobel laureate who explored how organisms get energy from their environments and use it to keep th… https://t.co/dpJ0sFx53v",25,@nytimes
+0.5423,Sun Jun 10 19:00:06 +0000 2018,0.811,0.0,0.189,"A peace treaty before denuclearization would be a tremendous victory for the North Koreans, says a Georgetown profe… https://t.co/rCRL2bxu1h",26,@nytimes
+0.0,Sun Jun 10 18:45:07 +0000 2018,1.0,0.0,0.0,"Disney’s offer to buy 21st Century Fox. CVS’s bid for Aetna. T-Mobile’s proposed merger with Sprint.
+
+The path for… https://t.co/hPdlfBbyGy",27,@nytimes
+0.0,Sun Jun 10 18:30:05 +0000 2018,1.0,0.0,0.0,Here are a few ideas for what you should cook this week https://t.co/zdsVfmc70S,28,@nytimes
+0.0,Sun Jun 10 18:15:04 +0000 2018,1.0,0.0,0.0,"In Opinion
+
+Op-Ed contributor Laurence Maslon writes, ""To paraphrase a family-friendly musical from 1960, “Bye Bye… https://t.co/S9h2EM0YNO",29,@nytimes
+0.5267,Sun Jun 10 18:00:02 +0000 2018,0.672,0.082,0.246,The new corporate tax cuts are unlikely to stimulate the level of job creation and wage growth that the Trump admin… https://t.co/25gPuZqrg4,30,@nytimes
+-0.296,Sun Jun 10 17:45:05 +0000 2018,0.891,0.109,0.0,"Leaders in Beijing are worried, experts say, that Kim Jong-un might try to counterbalance China’s influence by embr… https://t.co/0m71lmRjOM",31,@nytimes
+-0.8481,Sun Jun 10 17:30:07 +0000 2018,0.647,0.353,0.0,"A garbage-fueled tsunami killed 2 Indians. “If this continues to happen, the city will drown in its waste.” https://t.co/fquliVjdY8",32,@nytimes
+0.0,Sun Jun 10 17:15:08 +0000 2018,1.0,0.0,0.0,A Honduran man who was told he would be separated from his family after he had crossed the border into Texas strang… https://t.co/icGjtcKwnS,33,@nytimes
+-0.1779,Sun Jun 10 17:00:05 +0000 2018,0.922,0.078,0.0,"“My grandfather had to hide from the Nazis in a salt mine,” says a woman born in Poland, who is seeking restitution… https://t.co/x79vBG1fBV",34,@nytimes
+0.0,Sun Jun 10 16:45:04 +0000 2018,1.0,0.0,0.0,"In Opinion 
+
+Op-Ed contributor Mona Hanna-Attisha writes, ""One of the lessons of Flint is that science and public h… https://t.co/y7UHnSYqw1",35,@nytimes
+-0.5859,Sun Jun 10 16:30:12 +0000 2018,0.769,0.231,0.0,Documents released in a lawsuit attempting to block the inclusion of a question about citizenship in the 2020 censu… https://t.co/jLI5ctDxXS,36,@nytimes
+0.0382,Sun Jun 10 16:15:03 +0000 2018,0.948,0.0,0.052,"To many, Mitt Romney's earnestness now qualifies as refreshing. He does not swear. He does not drink. He does not a… https://t.co/EiHDOuc97v",37,@nytimes
+0.8176,Sun Jun 10 16:06:44 +0000 2018,0.638,0.0,0.362,"Breaking News: Rafael Nadal won his 11th French Open title, triumphing over a young challenger, Dominic Thiem, and… https://t.co/sRJWDg0wD8",38,@nytimes
+0.4767,Sun Jun 10 16:00:10 +0000 2018,0.731,0.064,0.205,"Corruption has gutted South Africa's tax agency. The hard lesson: When leaders resist paying their fair share, ordi… https://t.co/x2bDF6IoBr",39,@nytimes
+0.0,Sun Jun 10 15:45:08 +0000 2018,1.0,0.0,0.0,"The summit meeting in Singapore, resuscitated at the last minute, will be the first between an American president a… https://t.co/52H8JdnSGV",40,@nytimes
+-0.1526,Sun Jun 10 20:00:11 +0000 2018,0.748,0.14,0.112,"While Ocean's 8 easily took first place at the box office, its opening is not an unmitigated success https://t.co/2LKE54rGj3",41,@nytimes
+0.7906,Sun Jun 10 19:45:05 +0000 2018,0.682,0.0,0.318,How do you capture the essence of love in New York? The answer is in a kiss. https://t.co/44ttmZKJGJ,42,@nytimes
+0.0,Sun Jun 10 19:33:38 +0000 2018,1.0,0.0,0.0,"RT @MichaelPaulson: Tonight is @TheTonyAwards. You’ll hear @springsteen, @joshgroban and @SaraBareilles, see Tina Fey and @amyschumer, and…",43,@nytimes
+-0.7269,Sun Jun 10 19:30:02 +0000 2018,0.66,0.254,0.086,"At 16, she already might be the best high school runner ever. But can Katelyn Tuohy avoid one of the cruelest reali… https://t.co/netHDmILgM",44,@nytimes
+0.2732,Sun Jun 10 19:15:07 +0000 2018,0.905,0.0,0.095,"Paul D. Boyer, a Nobel laureate who explored how organisms get energy from their environments and use it to keep th… https://t.co/dpJ0sFx53v",45,@nytimes
+0.5423,Sun Jun 10 19:00:06 +0000 2018,0.811,0.0,0.189,"A peace treaty before denuclearization would be a tremendous victory for the North Koreans, says a Georgetown profe… https://t.co/rCRL2bxu1h",46,@nytimes
+0.0,Sun Jun 10 18:45:07 +0000 2018,1.0,0.0,0.0,"Disney’s offer to buy 21st Century Fox. CVS’s bid for Aetna. T-Mobile’s proposed merger with Sprint.
+
+The path for… https://t.co/hPdlfBbyGy",47,@nytimes
+0.0,Sun Jun 10 18:30:05 +0000 2018,1.0,0.0,0.0,Here are a few ideas for what you should cook this week https://t.co/zdsVfmc70S,48,@nytimes
+0.0,Sun Jun 10 18:15:04 +0000 2018,1.0,0.0,0.0,"In Opinion
+
+Op-Ed contributor Laurence Maslon writes, ""To paraphrase a family-friendly musical from 1960, “Bye Bye… https://t.co/S9h2EM0YNO",49,@nytimes
+0.5267,Sun Jun 10 18:00:02 +0000 2018,0.672,0.082,0.246,The new corporate tax cuts are unlikely to stimulate the level of job creation and wage growth that the Trump admin… https://t.co/25gPuZqrg4,50,@nytimes
+-0.296,Sun Jun 10 17:45:05 +0000 2018,0.891,0.109,0.0,"Leaders in Beijing are worried, experts say, that Kim Jong-un might try to counterbalance China’s influence by embr… https://t.co/0m71lmRjOM",51,@nytimes
+-0.8481,Sun Jun 10 17:30:07 +0000 2018,0.647,0.353,0.0,"A garbage-fueled tsunami killed 2 Indians. “If this continues to happen, the city will drown in its waste.” https://t.co/fquliVjdY8",52,@nytimes
+0.0,Sun Jun 10 17:15:08 +0000 2018,1.0,0.0,0.0,A Honduran man who was told he would be separated from his family after he had crossed the border into Texas strang… https://t.co/icGjtcKwnS,53,@nytimes
+-0.1779,Sun Jun 10 17:00:05 +0000 2018,0.922,0.078,0.0,"“My grandfather had to hide from the Nazis in a salt mine,” says a woman born in Poland, who is seeking restitution… https://t.co/x79vBG1fBV",54,@nytimes
+0.0,Sun Jun 10 16:45:04 +0000 2018,1.0,0.0,0.0,"In Opinion 
+
+Op-Ed contributor Mona Hanna-Attisha writes, ""One of the lessons of Flint is that science and public h… https://t.co/y7UHnSYqw1",55,@nytimes
+-0.5859,Sun Jun 10 16:30:12 +0000 2018,0.769,0.231,0.0,Documents released in a lawsuit attempting to block the inclusion of a question about citizenship in the 2020 censu… https://t.co/jLI5ctDxXS,56,@nytimes
+0.0382,Sun Jun 10 16:15:03 +0000 2018,0.948,0.0,0.052,"To many, Mitt Romney's earnestness now qualifies as refreshing. He does not swear. He does not drink. He does not a… https://t.co/EiHDOuc97v",57,@nytimes
+0.8176,Sun Jun 10 16:06:44 +0000 2018,0.638,0.0,0.362,"Breaking News: Rafael Nadal won his 11th French Open title, triumphing over a young challenger, Dominic Thiem, and… https://t.co/sRJWDg0wD8",58,@nytimes
+0.4767,Sun Jun 10 16:00:10 +0000 2018,0.731,0.064,0.205,"Corruption has gutted South Africa's tax agency. The hard lesson: When leaders resist paying their fair share, ordi… https://t.co/x2bDF6IoBr",59,@nytimes
+0.0,Sun Jun 10 15:45:08 +0000 2018,1.0,0.0,0.0,"The summit meeting in Singapore, resuscitated at the last minute, will be the first between an American president a… https://t.co/52H8JdnSGV",60,@nytimes
+-0.1526,Sun Jun 10 20:00:11 +0000 2018,0.748,0.14,0.112,"While Ocean's 8 easily took first place at the box office, its opening is not an unmitigated success https://t.co/2LKE54rGj3",61,@nytimes
+0.7906,Sun Jun 10 19:45:05 +0000 2018,0.682,0.0,0.318,How do you capture the essence of love in New York? The answer is in a kiss. https://t.co/44ttmZKJGJ,62,@nytimes
+0.0,Sun Jun 10 19:33:38 +0000 2018,1.0,0.0,0.0,"RT @MichaelPaulson: Tonight is @TheTonyAwards. You’ll hear @springsteen, @joshgroban and @SaraBareilles, see Tina Fey and @amyschumer, and…",63,@nytimes
+-0.7269,Sun Jun 10 19:30:02 +0000 2018,0.66,0.254,0.086,"At 16, she already might be the best high school runner ever. But can Katelyn Tuohy avoid one of the cruelest reali… https://t.co/netHDmILgM",64,@nytimes
+0.2732,Sun Jun 10 19:15:07 +0000 2018,0.905,0.0,0.095,"Paul D. Boyer, a Nobel laureate who explored how organisms get energy from their environments and use it to keep th… https://t.co/dpJ0sFx53v",65,@nytimes
+0.5423,Sun Jun 10 19:00:06 +0000 2018,0.811,0.0,0.189,"A peace treaty before denuclearization would be a tremendous victory for the North Koreans, says a Georgetown profe… https://t.co/rCRL2bxu1h",66,@nytimes
+0.0,Sun Jun 10 18:45:07 +0000 2018,1.0,0.0,0.0,"Disney’s offer to buy 21st Century Fox. CVS’s bid for Aetna. T-Mobile’s proposed merger with Sprint.
+
+The path for… https://t.co/hPdlfBbyGy",67,@nytimes
+0.0,Sun Jun 10 18:30:05 +0000 2018,1.0,0.0,0.0,Here are a few ideas for what you should cook this week https://t.co/zdsVfmc70S,68,@nytimes
+0.0,Sun Jun 10 18:15:04 +0000 2018,1.0,0.0,0.0,"In Opinion
+
+Op-Ed contributor Laurence Maslon writes, ""To paraphrase a family-friendly musical from 1960, “Bye Bye… https://t.co/S9h2EM0YNO",69,@nytimes
+0.5267,Sun Jun 10 18:00:02 +0000 2018,0.672,0.082,0.246,The new corporate tax cuts are unlikely to stimulate the level of job creation and wage growth that the Trump admin… https://t.co/25gPuZqrg4,70,@nytimes
+-0.296,Sun Jun 10 17:45:05 +0000 2018,0.891,0.109,0.0,"Leaders in Beijing are worried, experts say, that Kim Jong-un might try to counterbalance China’s influence by embr… https://t.co/0m71lmRjOM",71,@nytimes
+-0.8481,Sun Jun 10 17:30:07 +0000 2018,0.647,0.353,0.0,"A garbage-fueled tsunami killed 2 Indians. “If this continues to happen, the city will drown in its waste.” https://t.co/fquliVjdY8",72,@nytimes
+0.0,Sun Jun 10 17:15:08 +0000 2018,1.0,0.0,0.0,A Honduran man who was told he would be separated from his family after he had crossed the border into Texas strang… https://t.co/icGjtcKwnS,73,@nytimes
+-0.1779,Sun Jun 10 17:00:05 +0000 2018,0.922,0.078,0.0,"“My grandfather had to hide from the Nazis in a salt mine,” says a woman born in Poland, who is seeking restitution… https://t.co/x79vBG1fBV",74,@nytimes
+0.0,Sun Jun 10 16:45:04 +0000 2018,1.0,0.0,0.0,"In Opinion 
+
+Op-Ed contributor Mona Hanna-Attisha writes, ""One of the lessons of Flint is that science and public h… https://t.co/y7UHnSYqw1",75,@nytimes
+-0.5859,Sun Jun 10 16:30:12 +0000 2018,0.769,0.231,0.0,Documents released in a lawsuit attempting to block the inclusion of a question about citizenship in the 2020 censu… https://t.co/jLI5ctDxXS,76,@nytimes
+0.0382,Sun Jun 10 16:15:03 +0000 2018,0.948,0.0,0.052,"To many, Mitt Romney's earnestness now qualifies as refreshing. He does not swear. He does not drink. He does not a… https://t.co/EiHDOuc97v",77,@nytimes
+0.8176,Sun Jun 10 16:06:44 +0000 2018,0.638,0.0,0.362,"Breaking News: Rafael Nadal won his 11th French Open title, triumphing over a young challenger, Dominic Thiem, and… https://t.co/sRJWDg0wD8",78,@nytimes
+0.4767,Sun Jun 10 16:00:10 +0000 2018,0.731,0.064,0.205,"Corruption has gutted South Africa's tax agency. The hard lesson: When leaders resist paying their fair share, ordi… https://t.co/x2bDF6IoBr",79,@nytimes
+0.0,Sun Jun 10 15:45:08 +0000 2018,1.0,0.0,0.0,"The summit meeting in Singapore, resuscitated at the last minute, will be the first between an American president a… https://t.co/52H8JdnSGV",80,@nytimes
+-0.1526,Sun Jun 10 20:00:11 +0000 2018,0.748,0.14,0.112,"While Ocean's 8 easily took first place at the box office, its opening is not an unmitigated success https://t.co/2LKE54rGj3",81,@nytimes
+0.7906,Sun Jun 10 19:45:05 +0000 2018,0.682,0.0,0.318,How do you capture the essence of love in New York? The answer is in a kiss. https://t.co/44ttmZKJGJ,82,@nytimes
+0.0,Sun Jun 10 19:33:38 +0000 2018,1.0,0.0,0.0,"RT @MichaelPaulson: Tonight is @TheTonyAwards. You’ll hear @springsteen, @joshgroban and @SaraBareilles, see Tina Fey and @amyschumer, and…",83,@nytimes
+-0.7269,Sun Jun 10 19:30:02 +0000 2018,0.66,0.254,0.086,"At 16, she already might be the best high school runner ever. But can Katelyn Tuohy avoid one of the cruelest reali… https://t.co/netHDmILgM",84,@nytimes
+0.2732,Sun Jun 10 19:15:07 +0000 2018,0.905,0.0,0.095,"Paul D. Boyer, a Nobel laureate who explored how organisms get energy from their environments and use it to keep th… https://t.co/dpJ0sFx53v",85,@nytimes
+0.5423,Sun Jun 10 19:00:06 +0000 2018,0.811,0.0,0.189,"A peace treaty before denuclearization would be a tremendous victory for the North Koreans, says a Georgetown profe… https://t.co/rCRL2bxu1h",86,@nytimes
+0.0,Sun Jun 10 18:45:07 +0000 2018,1.0,0.0,0.0,"Disney’s offer to buy 21st Century Fox. CVS’s bid for Aetna. T-Mobile’s proposed merger with Sprint.
+
+The path for… https://t.co/hPdlfBbyGy",87,@nytimes
+0.0,Sun Jun 10 18:30:05 +0000 2018,1.0,0.0,0.0,Here are a few ideas for what you should cook this week https://t.co/zdsVfmc70S,88,@nytimes
+0.0,Sun Jun 10 18:15:04 +0000 2018,1.0,0.0,0.0,"In Opinion
+
+Op-Ed contributor Laurence Maslon writes, ""To paraphrase a family-friendly musical from 1960, “Bye Bye… https://t.co/S9h2EM0YNO",89,@nytimes
+0.5267,Sun Jun 10 18:00:02 +0000 2018,0.672,0.082,0.246,The new corporate tax cuts are unlikely to stimulate the level of job creation and wage growth that the Trump admin… https://t.co/25gPuZqrg4,90,@nytimes
+-0.296,Sun Jun 10 17:45:05 +0000 2018,0.891,0.109,0.0,"Leaders in Beijing are worried, experts say, that Kim Jong-un might try to counterbalance China’s influence by embr… https://t.co/0m71lmRjOM",91,@nytimes
+-0.8481,Sun Jun 10 17:30:07 +0000 2018,0.647,0.353,0.0,"A garbage-fueled tsunami killed 2 Indians. “If this continues to happen, the city will drown in its waste.” https://t.co/fquliVjdY8",92,@nytimes
+0.0,Sun Jun 10 17:15:08 +0000 2018,1.0,0.0,0.0,A Honduran man who was told he would be separated from his family after he had crossed the border into Texas strang… https://t.co/icGjtcKwnS,93,@nytimes
+-0.1779,Sun Jun 10 17:00:05 +0000 2018,0.922,0.078,0.0,"“My grandfather had to hide from the Nazis in a salt mine,” says a woman born in Poland, who is seeking restitution… https://t.co/x79vBG1fBV",94,@nytimes
+0.0,Sun Jun 10 16:45:04 +0000 2018,1.0,0.0,0.0,"In Opinion 
+
+Op-Ed contributor Mona Hanna-Attisha writes, ""One of the lessons of Flint is that science and public h… https://t.co/y7UHnSYqw1",95,@nytimes
+-0.5859,Sun Jun 10 16:30:12 +0000 2018,0.769,0.231,0.0,Documents released in a lawsuit attempting to block the inclusion of a question about citizenship in the 2020 censu… https://t.co/jLI5ctDxXS,96,@nytimes
+0.0382,Sun Jun 10 16:15:03 +0000 2018,0.948,0.0,0.052,"To many, Mitt Romney's earnestness now qualifies as refreshing. He does not swear. He does not drink. He does not a… https://t.co/EiHDOuc97v",97,@nytimes
+0.8176,Sun Jun 10 16:06:44 +0000 2018,0.638,0.0,0.362,"Breaking News: Rafael Nadal won his 11th French Open title, triumphing over a young challenger, Dominic Thiem, and… https://t.co/sRJWDg0wD8",98,@nytimes
+0.4767,Sun Jun 10 16:00:10 +0000 2018,0.731,0.064,0.205,"Corruption has gutted South Africa's tax agency. The hard lesson: When leaders resist paying their fair share, ordi… https://t.co/x2bDF6IoBr",99,@nytimes
+0.0,Sun Jun 10 15:45:08 +0000 2018,1.0,0.0,0.0,"The summit meeting in Singapore, resuscitated at the last minute, will be the first between an American president a… https://t.co/52H8JdnSGV",100,@nytimes
+-0.34,Sun Jun 10 19:57:35 +0000 2018,0.789,0.211,0.0,Iraq election: Fire hits Baghdad ballots ahead of recount https://t.co/ZJmitPrwhL,1,@BBCNews
+0.5859,Sun Jun 10 19:55:18 +0000 2018,0.703,0.0,0.297,Sebastian Vettel takes F1 title lead with Canada win https://t.co/wKSiwnCzGY,2,@BBCNews
+0.4215,Sun Jun 10 19:50:42 +0000 2018,0.763,0.0,0.237,Italy's Matteo Salvini shuts port to 629 rescued migrants https://t.co/GvGRMhiXMM,3,@BBCNews
+0.2023,Sun Jun 10 19:34:40 +0000 2018,0.886,0.0,0.114,"World Cup 2018: Gary Lineker, Rio Ferdinand, Frank Lampard on England's chances in Russia https://t.co/TGJfJlHqzJ",4,@BBCNews
+0.0,Sun Jun 10 18:29:16 +0000 2018,1.0,0.0,0.0,In pictures: Red Arrows soar at Cosford Air Show's RAF centenary https://t.co/PYHBcllj24,5,@BBCNews
+-0.4588,Sun Jun 10 18:26:53 +0000 2018,0.812,0.188,0.0,Raul da Silva banned for 21 days for striking Jim Crowley in face https://t.co/wPyWzfm0IX,6,@BBCNews
+0.0,Sun Jun 10 18:03:47 +0000 2018,1.0,0.0,0.0,Scotland stun England as Calum MacLeod hits 140 not out in Edinburgh https://t.co/Ikax0rWtf2,7,@BBCNews
+-0.5574,Sun Jun 10 17:49:44 +0000 2018,0.603,0.397,0.0,Demi Lovato cancels London concert due to illness https://t.co/pBoyk2lAZC,8,@BBCNews
+0.5719,Sun Jun 10 17:17:13 +0000 2018,0.709,0.0,0.291,Four UK cities celebrate 100 years of women's vote https://t.co/k3b4D6ZwCs,9,@BBCNews
+0.7351,Sun Jun 10 16:33:29 +0000 2018,0.659,0.0,0.341,Stockholm Diamond League: Dina Asher-Smith dips under 11 seconds again to win 100m https://t.co/IRfsk29zbx,10,@BBCNews
+0.0,Sun Jun 10 16:09:45 +0000 2018,1.0,0.0,0.0,World Cup warm-up match: Austria 0-3 Brazil https://t.co/o3ZezJna1r,11,@BBCNews
+0.5859,Sun Jun 10 16:02:31 +0000 2018,0.759,0.0,0.241,French Open 2018: Rafael Nadal beats Dominic Thiem to win 11th title https://t.co/pHtmmduQ8K,12,@BBCNews
+0.5719,Sun Jun 10 15:57:42 +0000 2018,0.871,0.0,0.129,"RT @BBCSport: 🐐 🎾 🐐 🎾 🐐 🎾
+
+Rafael Nadal has won the French Open AGAIN.
+
+Reaction 👇
+https://t.co/71kAdwLqQY
+📻@5livesport
+#bbctennis #RG18 ht…",13,@BBCNews
+-0.128,Sun Jun 10 15:53:32 +0000 2018,0.857,0.143,0.0,Family 'devastated' after lightning strike at home near Lenzie https://t.co/fcDBYze9tO,14,@BBCNews
+0.0,Sun Jun 10 15:27:44 +0000 2018,1.0,0.0,0.0,Lily Allen says she spends five hours a day on Twitter https://t.co/Aqf8wGO8x0,15,@BBCNews
+0.0,Sun Jun 10 15:27:44 +0000 2018,1.0,0.0,0.0,Trump-Kim summit: US and North Korea leaders arrive https://t.co/P7b1fPZ7Ra,16,@BBCNews
+0.6908,Sun Jun 10 15:25:27 +0000 2018,0.513,0.0,0.487,Vicky Holland surprised to win Leeds Triathlon https://t.co/sQ6qCthdEt,17,@BBCNews
+-0.4404,Sun Jun 10 14:28:15 +0000 2018,0.756,0.244,0.0,Swiss vote to block foreign betting sites in referendum https://t.co/0mbtbn6gwZ,18,@BBCNews
+-0.5859,Sun Jun 10 14:04:54 +0000 2018,0.703,0.297,0.0,BBC Radio 4's Eddie Mair reveals 'shame' over assault https://t.co/UAC20A5oNW,19,@BBCNews
+0.5719,Sun Jun 10 13:20:07 +0000 2018,0.73,0.0,0.27,Criterium du Dauphine: Geraint Thomas wins ahead of Adam Yates https://t.co/Mgh2XBnxHb,20,@BBCNews
+-0.34,Sun Jun 10 19:57:35 +0000 2018,0.789,0.211,0.0,Iraq election: Fire hits Baghdad ballots ahead of recount https://t.co/ZJmitPrwhL,21,@BBCNews
+0.5859,Sun Jun 10 19:55:18 +0000 2018,0.703,0.0,0.297,Sebastian Vettel takes F1 title lead with Canada win https://t.co/wKSiwnCzGY,22,@BBCNews
+0.4215,Sun Jun 10 19:50:42 +0000 2018,0.763,0.0,0.237,Italy's Matteo Salvini shuts port to 629 rescued migrants https://t.co/GvGRMhiXMM,23,@BBCNews
+0.2023,Sun Jun 10 19:34:40 +0000 2018,0.886,0.0,0.114,"World Cup 2018: Gary Lineker, Rio Ferdinand, Frank Lampard on England's chances in Russia https://t.co/TGJfJlHqzJ",24,@BBCNews
+0.0,Sun Jun 10 18:29:16 +0000 2018,1.0,0.0,0.0,In pictures: Red Arrows soar at Cosford Air Show's RAF centenary https://t.co/PYHBcllj24,25,@BBCNews
+-0.4588,Sun Jun 10 18:26:53 +0000 2018,0.812,0.188,0.0,Raul da Silva banned for 21 days for striking Jim Crowley in face https://t.co/wPyWzfm0IX,26,@BBCNews
+0.0,Sun Jun 10 18:03:47 +0000 2018,1.0,0.0,0.0,Scotland stun England as Calum MacLeod hits 140 not out in Edinburgh https://t.co/Ikax0rWtf2,27,@BBCNews
+-0.5574,Sun Jun 10 17:49:44 +0000 2018,0.603,0.397,0.0,Demi Lovato cancels London concert due to illness https://t.co/pBoyk2lAZC,28,@BBCNews
+0.5719,Sun Jun 10 17:17:13 +0000 2018,0.709,0.0,0.291,Four UK cities celebrate 100 years of women's vote https://t.co/k3b4D6ZwCs,29,@BBCNews
+0.7351,Sun Jun 10 16:33:29 +0000 2018,0.659,0.0,0.341,Stockholm Diamond League: Dina Asher-Smith dips under 11 seconds again to win 100m https://t.co/IRfsk29zbx,30,@BBCNews
+0.0,Sun Jun 10 16:09:45 +0000 2018,1.0,0.0,0.0,World Cup warm-up match: Austria 0-3 Brazil https://t.co/o3ZezJna1r,31,@BBCNews
+0.5859,Sun Jun 10 16:02:31 +0000 2018,0.759,0.0,0.241,French Open 2018: Rafael Nadal beats Dominic Thiem to win 11th title https://t.co/pHtmmduQ8K,32,@BBCNews
+0.5719,Sun Jun 10 15:57:42 +0000 2018,0.871,0.0,0.129,"RT @BBCSport: 🐐 🎾 🐐 🎾 🐐 🎾
+
+Rafael Nadal has won the French Open AGAIN.
+
+Reaction 👇
+https://t.co/71kAdwLqQY
+📻@5livesport
+#bbctennis #RG18 ht…",33,@BBCNews
+-0.128,Sun Jun 10 15:53:32 +0000 2018,0.857,0.143,0.0,Family 'devastated' after lightning strike at home near Lenzie https://t.co/fcDBYze9tO,34,@BBCNews
+0.0,Sun Jun 10 15:27:44 +0000 2018,1.0,0.0,0.0,Lily Allen says she spends five hours a day on Twitter https://t.co/Aqf8wGO8x0,35,@BBCNews
+0.0,Sun Jun 10 15:27:44 +0000 2018,1.0,0.0,0.0,Trump-Kim summit: US and North Korea leaders arrive https://t.co/P7b1fPZ7Ra,36,@BBCNews
+0.6908,Sun Jun 10 15:25:27 +0000 2018,0.513,0.0,0.487,Vicky Holland surprised to win Leeds Triathlon https://t.co/sQ6qCthdEt,37,@BBCNews
+-0.4404,Sun Jun 10 14:28:15 +0000 2018,0.756,0.244,0.0,Swiss vote to block foreign betting sites in referendum https://t.co/0mbtbn6gwZ,38,@BBCNews
+-0.5859,Sun Jun 10 14:04:54 +0000 2018,0.703,0.297,0.0,BBC Radio 4's Eddie Mair reveals 'shame' over assault https://t.co/UAC20A5oNW,39,@BBCNews
+0.5719,Sun Jun 10 13:20:07 +0000 2018,0.73,0.0,0.27,Criterium du Dauphine: Geraint Thomas wins ahead of Adam Yates https://t.co/Mgh2XBnxHb,40,@BBCNews
+-0.34,Sun Jun 10 19:57:35 +0000 2018,0.789,0.211,0.0,Iraq election: Fire hits Baghdad ballots ahead of recount https://t.co/ZJmitPrwhL,41,@BBCNews
+0.5859,Sun Jun 10 19:55:18 +0000 2018,0.703,0.0,0.297,Sebastian Vettel takes F1 title lead with Canada win https://t.co/wKSiwnCzGY,42,@BBCNews
+0.4215,Sun Jun 10 19:50:42 +0000 2018,0.763,0.0,0.237,Italy's Matteo Salvini shuts port to 629 rescued migrants https://t.co/GvGRMhiXMM,43,@BBCNews
+0.2023,Sun Jun 10 19:34:40 +0000 2018,0.886,0.0,0.114,"World Cup 2018: Gary Lineker, Rio Ferdinand, Frank Lampard on England's chances in Russia https://t.co/TGJfJlHqzJ",44,@BBCNews
+0.0,Sun Jun 10 18:29:16 +0000 2018,1.0,0.0,0.0,In pictures: Red Arrows soar at Cosford Air Show's RAF centenary https://t.co/PYHBcllj24,45,@BBCNews
+-0.4588,Sun Jun 10 18:26:53 +0000 2018,0.812,0.188,0.0,Raul da Silva banned for 21 days for striking Jim Crowley in face https://t.co/wPyWzfm0IX,46,@BBCNews
+0.0,Sun Jun 10 18:03:47 +0000 2018,1.0,0.0,0.0,Scotland stun England as Calum MacLeod hits 140 not out in Edinburgh https://t.co/Ikax0rWtf2,47,@BBCNews
+-0.5574,Sun Jun 10 17:49:44 +0000 2018,0.603,0.397,0.0,Demi Lovato cancels London concert due to illness https://t.co/pBoyk2lAZC,48,@BBCNews
+0.5719,Sun Jun 10 17:17:13 +0000 2018,0.709,0.0,0.291,Four UK cities celebrate 100 years of women's vote https://t.co/k3b4D6ZwCs,49,@BBCNews
+0.7351,Sun Jun 10 16:33:29 +0000 2018,0.659,0.0,0.341,Stockholm Diamond League: Dina Asher-Smith dips under 11 seconds again to win 100m https://t.co/IRfsk29zbx,50,@BBCNews
+0.0,Sun Jun 10 16:09:45 +0000 2018,1.0,0.0,0.0,World Cup warm-up match: Austria 0-3 Brazil https://t.co/o3ZezJna1r,51,@BBCNews
+0.5859,Sun Jun 10 16:02:31 +0000 2018,0.759,0.0,0.241,French Open 2018: Rafael Nadal beats Dominic Thiem to win 11th title https://t.co/pHtmmduQ8K,52,@BBCNews
+0.5719,Sun Jun 10 15:57:42 +0000 2018,0.871,0.0,0.129,"RT @BBCSport: 🐐 🎾 🐐 🎾 🐐 🎾
+
+Rafael Nadal has won the French Open AGAIN.
+
+Reaction 👇
+https://t.co/71kAdwLqQY
+📻@5livesport
+#bbctennis #RG18 ht…",53,@BBCNews
+-0.128,Sun Jun 10 15:53:32 +0000 2018,0.857,0.143,0.0,Family 'devastated' after lightning strike at home near Lenzie https://t.co/fcDBYze9tO,54,@BBCNews
+0.0,Sun Jun 10 15:27:44 +0000 2018,1.0,0.0,0.0,Lily Allen says she spends five hours a day on Twitter https://t.co/Aqf8wGO8x0,55,@BBCNews
+0.0,Sun Jun 10 15:27:44 +0000 2018,1.0,0.0,0.0,Trump-Kim summit: US and North Korea leaders arrive https://t.co/P7b1fPZ7Ra,56,@BBCNews
+0.6908,Sun Jun 10 15:25:27 +0000 2018,0.513,0.0,0.487,Vicky Holland surprised to win Leeds Triathlon https://t.co/sQ6qCthdEt,57,@BBCNews
+-0.4404,Sun Jun 10 14:28:15 +0000 2018,0.756,0.244,0.0,Swiss vote to block foreign betting sites in referendum https://t.co/0mbtbn6gwZ,58,@BBCNews
+-0.5859,Sun Jun 10 14:04:54 +0000 2018,0.703,0.297,0.0,BBC Radio 4's Eddie Mair reveals 'shame' over assault https://t.co/UAC20A5oNW,59,@BBCNews
+0.5719,Sun Jun 10 13:20:07 +0000 2018,0.73,0.0,0.27,Criterium du Dauphine: Geraint Thomas wins ahead of Adam Yates https://t.co/Mgh2XBnxHb,60,@BBCNews
+-0.34,Sun Jun 10 19:57:35 +0000 2018,0.789,0.211,0.0,Iraq election: Fire hits Baghdad ballots ahead of recount https://t.co/ZJmitPrwhL,61,@BBCNews
+0.5859,Sun Jun 10 19:55:18 +0000 2018,0.703,0.0,0.297,Sebastian Vettel takes F1 title lead with Canada win https://t.co/wKSiwnCzGY,62,@BBCNews
+0.4215,Sun Jun 10 19:50:42 +0000 2018,0.763,0.0,0.237,Italy's Matteo Salvini shuts port to 629 rescued migrants https://t.co/GvGRMhiXMM,63,@BBCNews
+0.2023,Sun Jun 10 19:34:40 +0000 2018,0.886,0.0,0.114,"World Cup 2018: Gary Lineker, Rio Ferdinand, Frank Lampard on England's chances in Russia https://t.co/TGJfJlHqzJ",64,@BBCNews
+0.0,Sun Jun 10 18:29:16 +0000 2018,1.0,0.0,0.0,In pictures: Red Arrows soar at Cosford Air Show's RAF centenary https://t.co/PYHBcllj24,65,@BBCNews
+-0.4588,Sun Jun 10 18:26:53 +0000 2018,0.812,0.188,0.0,Raul da Silva banned for 21 days for striking Jim Crowley in face https://t.co/wPyWzfm0IX,66,@BBCNews
+0.0,Sun Jun 10 18:03:47 +0000 2018,1.0,0.0,0.0,Scotland stun England as Calum MacLeod hits 140 not out in Edinburgh https://t.co/Ikax0rWtf2,67,@BBCNews
+-0.5574,Sun Jun 10 17:49:44 +0000 2018,0.603,0.397,0.0,Demi Lovato cancels London concert due to illness https://t.co/pBoyk2lAZC,68,@BBCNews
+0.5719,Sun Jun 10 17:17:13 +0000 2018,0.709,0.0,0.291,Four UK cities celebrate 100 years of women's vote https://t.co/k3b4D6ZwCs,69,@BBCNews
+0.7351,Sun Jun 10 16:33:29 +0000 2018,0.659,0.0,0.341,Stockholm Diamond League: Dina Asher-Smith dips under 11 seconds again to win 100m https://t.co/IRfsk29zbx,70,@BBCNews
+0.0,Sun Jun 10 16:09:45 +0000 2018,1.0,0.0,0.0,World Cup warm-up match: Austria 0-3 Brazil https://t.co/o3ZezJna1r,71,@BBCNews
+0.5859,Sun Jun 10 16:02:31 +0000 2018,0.759,0.0,0.241,French Open 2018: Rafael Nadal beats Dominic Thiem to win 11th title https://t.co/pHtmmduQ8K,72,@BBCNews
+0.5719,Sun Jun 10 15:57:42 +0000 2018,0.871,0.0,0.129,"RT @BBCSport: 🐐 🎾 🐐 🎾 🐐 🎾
+
+Rafael Nadal has won the French Open AGAIN.
+
+Reaction 👇
+https://t.co/71kAdwLqQY
+📻@5livesport
+#bbctennis #RG18 ht…",73,@BBCNews
+-0.128,Sun Jun 10 15:53:32 +0000 2018,0.857,0.143,0.0,Family 'devastated' after lightning strike at home near Lenzie https://t.co/fcDBYze9tO,74,@BBCNews
+0.0,Sun Jun 10 15:27:44 +0000 2018,1.0,0.0,0.0,Lily Allen says she spends five hours a day on Twitter https://t.co/Aqf8wGO8x0,75,@BBCNews
+0.0,Sun Jun 10 15:27:44 +0000 2018,1.0,0.0,0.0,Trump-Kim summit: US and North Korea leaders arrive https://t.co/P7b1fPZ7Ra,76,@BBCNews
+0.6908,Sun Jun 10 15:25:27 +0000 2018,0.513,0.0,0.487,Vicky Holland surprised to win Leeds Triathlon https://t.co/sQ6qCthdEt,77,@BBCNews
+-0.4404,Sun Jun 10 14:28:15 +0000 2018,0.756,0.244,0.0,Swiss vote to block foreign betting sites in referendum https://t.co/0mbtbn6gwZ,78,@BBCNews
+-0.5859,Sun Jun 10 14:04:54 +0000 2018,0.703,0.297,0.0,BBC Radio 4's Eddie Mair reveals 'shame' over assault https://t.co/UAC20A5oNW,79,@BBCNews
+0.5719,Sun Jun 10 13:20:07 +0000 2018,0.73,0.0,0.27,Criterium du Dauphine: Geraint Thomas wins ahead of Adam Yates https://t.co/Mgh2XBnxHb,80,@BBCNews
+-0.34,Sun Jun 10 19:57:35 +0000 2018,0.789,0.211,0.0,Iraq election: Fire hits Baghdad ballots ahead of recount https://t.co/ZJmitPrwhL,81,@BBCNews
+0.5859,Sun Jun 10 19:55:18 +0000 2018,0.703,0.0,0.297,Sebastian Vettel takes F1 title lead with Canada win https://t.co/wKSiwnCzGY,82,@BBCNews
+0.4215,Sun Jun 10 19:50:42 +0000 2018,0.763,0.0,0.237,Italy's Matteo Salvini shuts port to 629 rescued migrants https://t.co/GvGRMhiXMM,83,@BBCNews
+0.2023,Sun Jun 10 19:34:40 +0000 2018,0.886,0.0,0.114,"World Cup 2018: Gary Lineker, Rio Ferdinand, Frank Lampard on England's chances in Russia https://t.co/TGJfJlHqzJ",84,@BBCNews
+0.0,Sun Jun 10 18:29:16 +0000 2018,1.0,0.0,0.0,In pictures: Red Arrows soar at Cosford Air Show's RAF centenary https://t.co/PYHBcllj24,85,@BBCNews
+-0.4588,Sun Jun 10 18:26:53 +0000 2018,0.812,0.188,0.0,Raul da Silva banned for 21 days for striking Jim Crowley in face https://t.co/wPyWzfm0IX,86,@BBCNews
+0.0,Sun Jun 10 18:03:47 +0000 2018,1.0,0.0,0.0,Scotland stun England as Calum MacLeod hits 140 not out in Edinburgh https://t.co/Ikax0rWtf2,87,@BBCNews
+-0.5574,Sun Jun 10 17:49:44 +0000 2018,0.603,0.397,0.0,Demi Lovato cancels London concert due to illness https://t.co/pBoyk2lAZC,88,@BBCNews
+0.5719,Sun Jun 10 17:17:13 +0000 2018,0.709,0.0,0.291,Four UK cities celebrate 100 years of women's vote https://t.co/k3b4D6ZwCs,89,@BBCNews
+0.7351,Sun Jun 10 16:33:29 +0000 2018,0.659,0.0,0.341,Stockholm Diamond League: Dina Asher-Smith dips under 11 seconds again to win 100m https://t.co/IRfsk29zbx,90,@BBCNews
+0.0,Sun Jun 10 16:09:45 +0000 2018,1.0,0.0,0.0,World Cup warm-up match: Austria 0-3 Brazil https://t.co/o3ZezJna1r,91,@BBCNews
+0.5859,Sun Jun 10 16:02:31 +0000 2018,0.759,0.0,0.241,French Open 2018: Rafael Nadal beats Dominic Thiem to win 11th title https://t.co/pHtmmduQ8K,92,@BBCNews
+0.5719,Sun Jun 10 15:57:42 +0000 2018,0.871,0.0,0.129,"RT @BBCSport: 🐐 🎾 🐐 🎾 🐐 🎾
+
+Rafael Nadal has won the French Open AGAIN.
+
+Reaction 👇
+https://t.co/71kAdwLqQY
+📻@5livesport
+#bbctennis #RG18 ht…",93,@BBCNews
+-0.128,Sun Jun 10 15:53:32 +0000 2018,0.857,0.143,0.0,Family 'devastated' after lightning strike at home near Lenzie https://t.co/fcDBYze9tO,94,@BBCNews
+0.0,Sun Jun 10 15:27:44 +0000 2018,1.0,0.0,0.0,Lily Allen says she spends five hours a day on Twitter https://t.co/Aqf8wGO8x0,95,@BBCNews
+0.0,Sun Jun 10 15:27:44 +0000 2018,1.0,0.0,0.0,Trump-Kim summit: US and North Korea leaders arrive https://t.co/P7b1fPZ7Ra,96,@BBCNews
+0.6908,Sun Jun 10 15:25:27 +0000 2018,0.513,0.0,0.487,Vicky Holland surprised to win Leeds Triathlon https://t.co/sQ6qCthdEt,97,@BBCNews
+-0.4404,Sun Jun 10 14:28:15 +0000 2018,0.756,0.244,0.0,Swiss vote to block foreign betting sites in referendum https://t.co/0mbtbn6gwZ,98,@BBCNews
+-0.5859,Sun Jun 10 14:04:54 +0000 2018,0.703,0.297,0.0,BBC Radio 4's Eddie Mair reveals 'shame' over assault https://t.co/UAC20A5oNW,99,@BBCNews
+0.5719,Sun Jun 10 13:20:07 +0000 2018,0.73,0.0,0.27,Criterium du Dauphine: Geraint Thomas wins ahead of Adam Yates https://t.co/Mgh2XBnxHb,100,@BBCNews
+0.5106,Sun Jun 10 19:59:48 +0000 2018,0.837,0.0,0.163,"Nearly nine months after Hurricane Maria rocked the island, a million-strong Puerto Rican Day Parade is honoring fi… https://t.co/qhfMvIYj4G",1,@CBSNews
+-0.6597,Sun Jun 10 19:40:01 +0000 2018,0.758,0.242,0.0,"As the Miss America moves away from its pageant roots, it will stop judging women by their looks— and is losing the… https://t.co/Cqqex3YIg8",2,@CBSNews
+-0.296,Sun Jun 10 19:19:53 +0000 2018,0.885,0.115,0.0,"Lauren Ridloff, a stay-at-home mom with no professional theater experience ever, and who is deaf, was offered a sta… https://t.co/SL9Tdn8H4I",3,@CBSNews
+-0.8126,Sun Jun 10 18:59:36 +0000 2018,0.656,0.344,0.0,Suicide is escalating throughout the U.S.— experts and those affected by the desperate measure offer insight on a d… https://t.co/HBrMTMUeuc,4,@CBSNews
+-0.3182,Sun Jun 10 18:59:35 +0000 2018,0.881,0.119,0.0,"Hurricane Aletta weakened rapidly to a Category 2 storm on Saturday. Previously rated Category 4, the storm poses n… https://t.co/5ySaNBMXe2",5,@CBSNews
+-0.7184,Sun Jun 10 18:40:11 +0000 2018,0.76,0.24,0.0,"WATCH: When this man got pulled over for allegedly stealing a car, he had an odd accomplice with him: a monkey name… https://t.co/SkQ3A8P0fd",6,@CBSNews
+-0.4215,Sun Jun 10 18:19:39 +0000 2018,0.714,0.179,0.107,The American special forces soldier killed in Somalia has been identified as Staff Sgt. Alexander Conrad. He has be… https://t.co/VkpD0rQgLU,7,@CBSNews
+0.0,Sun Jun 10 18:00:14 +0000 2018,0.827,0.087,0.087,"With only $10 in his pocket and no prospect of a job, life in the U.S. isn’t quite what Shehab expected. Stream the… https://t.co/cPTzgh62XI",8,@CBSNews
+0.0,Sun Jun 10 17:46:36 +0000 2018,1.0,0.0,0.0,"@margbrennan ""They were kicked out after invading part of Ukraine and annexing Crimea.""
+
+Larry Kudlow: ""So be it.""… https://t.co/e2CLRAC8ku",9,@CBSNews
+0.128,Sun Jun 10 17:39:32 +0000 2018,0.754,0.111,0.136,"Kenneth Starr says there's ""no question"" there are parallels between special counsel Robert Mueller's Russia invest… https://t.co/dasL93H7a8",10,@CBSNews
+-0.6044,Sun Jun 10 17:34:18 +0000 2018,0.771,0.229,0.0,"""What's not in good faith is when you leave there you fly out of there and the host Canadian Prime Minister starts… https://t.co/nF370xoOEF",11,@CBSNews
+-0.1695,Sun Jun 10 17:22:51 +0000 2018,0.926,0.074,0.0,"""He's not going to allow the people to suddenly take pot shots at him"": Larry Kudlow says Canadian Prime Minister J… https://t.co/6vbmz1J2Yc",12,@CBSNews
+-0.3818,Sun Jun 10 17:19:39 +0000 2018,0.67,0.201,0.129,Restaurant CEO who says Anthony Bourdain changed his life donates 100% of profits to suicide hotline… https://t.co/tdSKsQNKrU,13,@CBSNews
+0.2263,Sun Jun 10 17:00:01 +0000 2018,0.773,0.094,0.133,"Citing Democrats' exclusion from summit preparations, Sen. Ed Markey said it would be wise for President Trump to c… https://t.co/mMaKTH1gBt",14,@CBSNews
+0.1779,Sun Jun 10 16:54:46 +0000 2018,0.642,0.16,0.198,"Rafael Nadal wins 11th French Open title, beating Dominic Thiem in 3 sets https://t.co/jAh9oMSDep https://t.co/AWWC9e2z4t",15,@CBSNews
+-0.3182,Sun Jun 10 16:40:07 +0000 2018,0.905,0.095,0.0,"MOOSE MAYHEM: When a baby moose got loose on this Alaska highway, several people got out of their cars to try and c… https://t.co/iwou64tPid",16,@CBSNews
+-0.2182,Sun Jun 10 16:27:56 +0000 2018,0.824,0.129,0.048,"""The fact of the matter is that I believe the North Koreans were not prepared to be serious under Kim Jong"": Susan… https://t.co/OrGTQod0p9",17,@CBSNews
+-0.5256,Sun Jun 10 16:19:48 +0000 2018,0.855,0.145,0.0,"Susan Rice said that the U.S now finds itself in a ""very dangerous moment"" as President Trump appears to be further… https://t.co/ZGetB9Fu8i",18,@CBSNews
+0.0,Sun Jun 10 16:10:29 +0000 2018,1.0,0.0,0.0,"North Korea summit must be more than ""one-and-done"" negotiation between Trump and Kim Jong Un, Susan Rice says on F… https://t.co/qsxFeDg2Tn",19,@CBSNews
+0.631,Sun Jun 10 16:00:09 +0000 2018,0.795,0.0,0.205,"You’ve heard about the caravan of migrants hoping to enter the U.S., but you’ve never seen their story like this. S… https://t.co/d1JUOvi4BA",20,@CBSNews
+0.5106,Sun Jun 10 19:59:48 +0000 2018,0.837,0.0,0.163,"Nearly nine months after Hurricane Maria rocked the island, a million-strong Puerto Rican Day Parade is honoring fi… https://t.co/qhfMvIYj4G",21,@CBSNews
+-0.6597,Sun Jun 10 19:40:01 +0000 2018,0.758,0.242,0.0,"As the Miss America moves away from its pageant roots, it will stop judging women by their looks— and is losing the… https://t.co/Cqqex3YIg8",22,@CBSNews
+-0.296,Sun Jun 10 19:19:53 +0000 2018,0.885,0.115,0.0,"Lauren Ridloff, a stay-at-home mom with no professional theater experience ever, and who is deaf, was offered a sta… https://t.co/SL9Tdn8H4I",23,@CBSNews
+-0.8126,Sun Jun 10 18:59:36 +0000 2018,0.656,0.344,0.0,Suicide is escalating throughout the U.S.— experts and those affected by the desperate measure offer insight on a d… https://t.co/HBrMTMUeuc,24,@CBSNews
+-0.3182,Sun Jun 10 18:59:35 +0000 2018,0.881,0.119,0.0,"Hurricane Aletta weakened rapidly to a Category 2 storm on Saturday. Previously rated Category 4, the storm poses n… https://t.co/5ySaNBMXe2",25,@CBSNews
+-0.7184,Sun Jun 10 18:40:11 +0000 2018,0.76,0.24,0.0,"WATCH: When this man got pulled over for allegedly stealing a car, he had an odd accomplice with him: a monkey name… https://t.co/SkQ3A8P0fd",26,@CBSNews
+-0.4215,Sun Jun 10 18:19:39 +0000 2018,0.714,0.179,0.107,The American special forces soldier killed in Somalia has been identified as Staff Sgt. Alexander Conrad. He has be… https://t.co/VkpD0rQgLU,27,@CBSNews
+0.0,Sun Jun 10 18:00:14 +0000 2018,0.827,0.087,0.087,"With only $10 in his pocket and no prospect of a job, life in the U.S. isn’t quite what Shehab expected. Stream the… https://t.co/cPTzgh62XI",28,@CBSNews
+0.0,Sun Jun 10 17:46:36 +0000 2018,1.0,0.0,0.0,"@margbrennan ""They were kicked out after invading part of Ukraine and annexing Crimea.""
+
+Larry Kudlow: ""So be it.""… https://t.co/e2CLRAC8ku",29,@CBSNews
+0.128,Sun Jun 10 17:39:32 +0000 2018,0.754,0.111,0.136,"Kenneth Starr says there's ""no question"" there are parallels between special counsel Robert Mueller's Russia invest… https://t.co/dasL93H7a8",30,@CBSNews
+-0.6044,Sun Jun 10 17:34:18 +0000 2018,0.771,0.229,0.0,"""What's not in good faith is when you leave there you fly out of there and the host Canadian Prime Minister starts… https://t.co/nF370xoOEF",31,@CBSNews
+-0.1695,Sun Jun 10 17:22:51 +0000 2018,0.926,0.074,0.0,"""He's not going to allow the people to suddenly take pot shots at him"": Larry Kudlow says Canadian Prime Minister J… https://t.co/6vbmz1J2Yc",32,@CBSNews
+-0.3818,Sun Jun 10 17:19:39 +0000 2018,0.67,0.201,0.129,Restaurant CEO who says Anthony Bourdain changed his life donates 100% of profits to suicide hotline… https://t.co/tdSKsQNKrU,33,@CBSNews
+0.2263,Sun Jun 10 17:00:01 +0000 2018,0.773,0.094,0.133,"Citing Democrats' exclusion from summit preparations, Sen. Ed Markey said it would be wise for President Trump to c… https://t.co/mMaKTH1gBt",34,@CBSNews
+0.1779,Sun Jun 10 16:54:46 +0000 2018,0.642,0.16,0.198,"Rafael Nadal wins 11th French Open title, beating Dominic Thiem in 3 sets https://t.co/jAh9oMSDep https://t.co/AWWC9e2z4t",35,@CBSNews
+-0.3182,Sun Jun 10 16:40:07 +0000 2018,0.905,0.095,0.0,"MOOSE MAYHEM: When a baby moose got loose on this Alaska highway, several people got out of their cars to try and c… https://t.co/iwou64tPid",36,@CBSNews
+-0.2182,Sun Jun 10 16:27:56 +0000 2018,0.824,0.129,0.048,"""The fact of the matter is that I believe the North Koreans were not prepared to be serious under Kim Jong"": Susan… https://t.co/OrGTQod0p9",37,@CBSNews
+-0.5256,Sun Jun 10 16:19:48 +0000 2018,0.855,0.145,0.0,"Susan Rice said that the U.S now finds itself in a ""very dangerous moment"" as President Trump appears to be further… https://t.co/ZGetB9Fu8i",38,@CBSNews
+0.0,Sun Jun 10 16:10:29 +0000 2018,1.0,0.0,0.0,"North Korea summit must be more than ""one-and-done"" negotiation between Trump and Kim Jong Un, Susan Rice says on F… https://t.co/qsxFeDg2Tn",39,@CBSNews
+0.631,Sun Jun 10 16:00:09 +0000 2018,0.795,0.0,0.205,"You’ve heard about the caravan of migrants hoping to enter the U.S., but you’ve never seen their story like this. S… https://t.co/d1JUOvi4BA",40,@CBSNews
+0.5106,Sun Jun 10 19:59:48 +0000 2018,0.837,0.0,0.163,"Nearly nine months after Hurricane Maria rocked the island, a million-strong Puerto Rican Day Parade is honoring fi… https://t.co/qhfMvIYj4G",41,@CBSNews
+-0.6597,Sun Jun 10 19:40:01 +0000 2018,0.758,0.242,0.0,"As the Miss America moves away from its pageant roots, it will stop judging women by their looks— and is losing the… https://t.co/Cqqex3YIg8",42,@CBSNews
+-0.296,Sun Jun 10 19:19:53 +0000 2018,0.885,0.115,0.0,"Lauren Ridloff, a stay-at-home mom with no professional theater experience ever, and who is deaf, was offered a sta… https://t.co/SL9Tdn8H4I",43,@CBSNews
+-0.8126,Sun Jun 10 18:59:36 +0000 2018,0.656,0.344,0.0,Suicide is escalating throughout the U.S.— experts and those affected by the desperate measure offer insight on a d… https://t.co/HBrMTMUeuc,44,@CBSNews
+-0.3182,Sun Jun 10 18:59:35 +0000 2018,0.881,0.119,0.0,"Hurricane Aletta weakened rapidly to a Category 2 storm on Saturday. Previously rated Category 4, the storm poses n… https://t.co/5ySaNBMXe2",45,@CBSNews
+-0.7184,Sun Jun 10 18:40:11 +0000 2018,0.76,0.24,0.0,"WATCH: When this man got pulled over for allegedly stealing a car, he had an odd accomplice with him: a monkey name… https://t.co/SkQ3A8P0fd",46,@CBSNews
+-0.4215,Sun Jun 10 18:19:39 +0000 2018,0.714,0.179,0.107,The American special forces soldier killed in Somalia has been identified as Staff Sgt. Alexander Conrad. He has be… https://t.co/VkpD0rQgLU,47,@CBSNews
+0.0,Sun Jun 10 18:00:14 +0000 2018,0.827,0.087,0.087,"With only $10 in his pocket and no prospect of a job, life in the U.S. isn’t quite what Shehab expected. Stream the… https://t.co/cPTzgh62XI",48,@CBSNews
+0.0,Sun Jun 10 17:46:36 +0000 2018,1.0,0.0,0.0,"@margbrennan ""They were kicked out after invading part of Ukraine and annexing Crimea.""
+
+Larry Kudlow: ""So be it.""… https://t.co/e2CLRAC8ku",49,@CBSNews
+0.128,Sun Jun 10 17:39:32 +0000 2018,0.754,0.111,0.136,"Kenneth Starr says there's ""no question"" there are parallels between special counsel Robert Mueller's Russia invest… https://t.co/dasL93H7a8",50,@CBSNews
+-0.6044,Sun Jun 10 17:34:18 +0000 2018,0.771,0.229,0.0,"""What's not in good faith is when you leave there you fly out of there and the host Canadian Prime Minister starts… https://t.co/nF370xoOEF",51,@CBSNews
+-0.1695,Sun Jun 10 17:22:51 +0000 2018,0.926,0.074,0.0,"""He's not going to allow the people to suddenly take pot shots at him"": Larry Kudlow says Canadian Prime Minister J… https://t.co/6vbmz1J2Yc",52,@CBSNews
+-0.3818,Sun Jun 10 17:19:39 +0000 2018,0.67,0.201,0.129,Restaurant CEO who says Anthony Bourdain changed his life donates 100% of profits to suicide hotline… https://t.co/tdSKsQNKrU,53,@CBSNews
+0.2263,Sun Jun 10 17:00:01 +0000 2018,0.773,0.094,0.133,"Citing Democrats' exclusion from summit preparations, Sen. Ed Markey said it would be wise for President Trump to c… https://t.co/mMaKTH1gBt",54,@CBSNews
+0.1779,Sun Jun 10 16:54:46 +0000 2018,0.642,0.16,0.198,"Rafael Nadal wins 11th French Open title, beating Dominic Thiem in 3 sets https://t.co/jAh9oMSDep https://t.co/AWWC9e2z4t",55,@CBSNews
+-0.3182,Sun Jun 10 16:40:07 +0000 2018,0.905,0.095,0.0,"MOOSE MAYHEM: When a baby moose got loose on this Alaska highway, several people got out of their cars to try and c… https://t.co/iwou64tPid",56,@CBSNews
+-0.2182,Sun Jun 10 16:27:56 +0000 2018,0.824,0.129,0.048,"""The fact of the matter is that I believe the North Koreans were not prepared to be serious under Kim Jong"": Susan… https://t.co/OrGTQod0p9",57,@CBSNews
+-0.5256,Sun Jun 10 16:19:48 +0000 2018,0.855,0.145,0.0,"Susan Rice said that the U.S now finds itself in a ""very dangerous moment"" as President Trump appears to be further… https://t.co/ZGetB9Fu8i",58,@CBSNews
+0.0,Sun Jun 10 16:10:29 +0000 2018,1.0,0.0,0.0,"North Korea summit must be more than ""one-and-done"" negotiation between Trump and Kim Jong Un, Susan Rice says on F… https://t.co/qsxFeDg2Tn",59,@CBSNews
+0.631,Sun Jun 10 16:00:09 +0000 2018,0.795,0.0,0.205,"You’ve heard about the caravan of migrants hoping to enter the U.S., but you’ve never seen their story like this. S… https://t.co/d1JUOvi4BA",60,@CBSNews
+0.5106,Sun Jun 10 19:59:48 +0000 2018,0.837,0.0,0.163,"Nearly nine months after Hurricane Maria rocked the island, a million-strong Puerto Rican Day Parade is honoring fi… https://t.co/qhfMvIYj4G",61,@CBSNews
+-0.6597,Sun Jun 10 19:40:01 +0000 2018,0.758,0.242,0.0,"As the Miss America moves away from its pageant roots, it will stop judging women by their looks— and is losing the… https://t.co/Cqqex3YIg8",62,@CBSNews
+-0.296,Sun Jun 10 19:19:53 +0000 2018,0.885,0.115,0.0,"Lauren Ridloff, a stay-at-home mom with no professional theater experience ever, and who is deaf, was offered a sta… https://t.co/SL9Tdn8H4I",63,@CBSNews
+-0.8126,Sun Jun 10 18:59:36 +0000 2018,0.656,0.344,0.0,Suicide is escalating throughout the U.S.— experts and those affected by the desperate measure offer insight on a d… https://t.co/HBrMTMUeuc,64,@CBSNews
+-0.3182,Sun Jun 10 18:59:35 +0000 2018,0.881,0.119,0.0,"Hurricane Aletta weakened rapidly to a Category 2 storm on Saturday. Previously rated Category 4, the storm poses n… https://t.co/5ySaNBMXe2",65,@CBSNews
+-0.7184,Sun Jun 10 18:40:11 +0000 2018,0.76,0.24,0.0,"WATCH: When this man got pulled over for allegedly stealing a car, he had an odd accomplice with him: a monkey name… https://t.co/SkQ3A8P0fd",66,@CBSNews
+-0.4215,Sun Jun 10 18:19:39 +0000 2018,0.714,0.179,0.107,The American special forces soldier killed in Somalia has been identified as Staff Sgt. Alexander Conrad. He has be… https://t.co/VkpD0rQgLU,67,@CBSNews
+0.0,Sun Jun 10 18:00:14 +0000 2018,0.827,0.087,0.087,"With only $10 in his pocket and no prospect of a job, life in the U.S. isn’t quite what Shehab expected. Stream the… https://t.co/cPTzgh62XI",68,@CBSNews
+0.0,Sun Jun 10 17:46:36 +0000 2018,1.0,0.0,0.0,"@margbrennan ""They were kicked out after invading part of Ukraine and annexing Crimea.""
+
+Larry Kudlow: ""So be it.""… https://t.co/e2CLRAC8ku",69,@CBSNews
+0.128,Sun Jun 10 17:39:32 +0000 2018,0.754,0.111,0.136,"Kenneth Starr says there's ""no question"" there are parallels between special counsel Robert Mueller's Russia invest… https://t.co/dasL93H7a8",70,@CBSNews
+-0.6044,Sun Jun 10 17:34:18 +0000 2018,0.771,0.229,0.0,"""What's not in good faith is when you leave there you fly out of there and the host Canadian Prime Minister starts… https://t.co/nF370xoOEF",71,@CBSNews
+-0.1695,Sun Jun 10 17:22:51 +0000 2018,0.926,0.074,0.0,"""He's not going to allow the people to suddenly take pot shots at him"": Larry Kudlow says Canadian Prime Minister J… https://t.co/6vbmz1J2Yc",72,@CBSNews
+-0.3818,Sun Jun 10 17:19:39 +0000 2018,0.67,0.201,0.129,Restaurant CEO who says Anthony Bourdain changed his life donates 100% of profits to suicide hotline… https://t.co/tdSKsQNKrU,73,@CBSNews
+0.2263,Sun Jun 10 17:00:01 +0000 2018,0.773,0.094,0.133,"Citing Democrats' exclusion from summit preparations, Sen. Ed Markey said it would be wise for President Trump to c… https://t.co/mMaKTH1gBt",74,@CBSNews
+0.1779,Sun Jun 10 16:54:46 +0000 2018,0.642,0.16,0.198,"Rafael Nadal wins 11th French Open title, beating Dominic Thiem in 3 sets https://t.co/jAh9oMSDep https://t.co/AWWC9e2z4t",75,@CBSNews
+-0.3182,Sun Jun 10 16:40:07 +0000 2018,0.905,0.095,0.0,"MOOSE MAYHEM: When a baby moose got loose on this Alaska highway, several people got out of their cars to try and c… https://t.co/iwou64tPid",76,@CBSNews
+-0.2182,Sun Jun 10 16:27:56 +0000 2018,0.824,0.129,0.048,"""The fact of the matter is that I believe the North Koreans were not prepared to be serious under Kim Jong"": Susan… https://t.co/OrGTQod0p9",77,@CBSNews
+-0.5256,Sun Jun 10 16:19:48 +0000 2018,0.855,0.145,0.0,"Susan Rice said that the U.S now finds itself in a ""very dangerous moment"" as President Trump appears to be further… https://t.co/ZGetB9Fu8i",78,@CBSNews
+0.0,Sun Jun 10 16:10:29 +0000 2018,1.0,0.0,0.0,"North Korea summit must be more than ""one-and-done"" negotiation between Trump and Kim Jong Un, Susan Rice says on F… https://t.co/qsxFeDg2Tn",79,@CBSNews
+0.631,Sun Jun 10 16:00:09 +0000 2018,0.795,0.0,0.205,"You’ve heard about the caravan of migrants hoping to enter the U.S., but you’ve never seen their story like this. S… https://t.co/d1JUOvi4BA",80,@CBSNews
+0.5106,Sun Jun 10 19:59:48 +0000 2018,0.837,0.0,0.163,"Nearly nine months after Hurricane Maria rocked the island, a million-strong Puerto Rican Day Parade is honoring fi… https://t.co/qhfMvIYj4G",81,@CBSNews
+-0.6597,Sun Jun 10 19:40:01 +0000 2018,0.758,0.242,0.0,"As the Miss America moves away from its pageant roots, it will stop judging women by their looks— and is losing the… https://t.co/Cqqex3YIg8",82,@CBSNews
+-0.296,Sun Jun 10 19:19:53 +0000 2018,0.885,0.115,0.0,"Lauren Ridloff, a stay-at-home mom with no professional theater experience ever, and who is deaf, was offered a sta… https://t.co/SL9Tdn8H4I",83,@CBSNews
+-0.8126,Sun Jun 10 18:59:36 +0000 2018,0.656,0.344,0.0,Suicide is escalating throughout the U.S.— experts and those affected by the desperate measure offer insight on a d… https://t.co/HBrMTMUeuc,84,@CBSNews
+-0.3182,Sun Jun 10 18:59:35 +0000 2018,0.881,0.119,0.0,"Hurricane Aletta weakened rapidly to a Category 2 storm on Saturday. Previously rated Category 4, the storm poses n… https://t.co/5ySaNBMXe2",85,@CBSNews
+-0.7184,Sun Jun 10 18:40:11 +0000 2018,0.76,0.24,0.0,"WATCH: When this man got pulled over for allegedly stealing a car, he had an odd accomplice with him: a monkey name… https://t.co/SkQ3A8P0fd",86,@CBSNews
+-0.4215,Sun Jun 10 18:19:39 +0000 2018,0.714,0.179,0.107,The American special forces soldier killed in Somalia has been identified as Staff Sgt. Alexander Conrad. He has be… https://t.co/VkpD0rQgLU,87,@CBSNews
+0.0,Sun Jun 10 18:00:14 +0000 2018,0.827,0.087,0.087,"With only $10 in his pocket and no prospect of a job, life in the U.S. isn’t quite what Shehab expected. Stream the… https://t.co/cPTzgh62XI",88,@CBSNews
+0.0,Sun Jun 10 17:46:36 +0000 2018,1.0,0.0,0.0,"@margbrennan ""They were kicked out after invading part of Ukraine and annexing Crimea.""
+
+Larry Kudlow: ""So be it.""… https://t.co/e2CLRAC8ku",89,@CBSNews
+0.128,Sun Jun 10 17:39:32 +0000 2018,0.754,0.111,0.136,"Kenneth Starr says there's ""no question"" there are parallels between special counsel Robert Mueller's Russia invest… https://t.co/dasL93H7a8",90,@CBSNews
+-0.6044,Sun Jun 10 17:34:18 +0000 2018,0.771,0.229,0.0,"""What's not in good faith is when you leave there you fly out of there and the host Canadian Prime Minister starts… https://t.co/nF370xoOEF",91,@CBSNews
+-0.1695,Sun Jun 10 17:22:51 +0000 2018,0.926,0.074,0.0,"""He's not going to allow the people to suddenly take pot shots at him"": Larry Kudlow says Canadian Prime Minister J… https://t.co/6vbmz1J2Yc",92,@CBSNews
+-0.3818,Sun Jun 10 17:19:39 +0000 2018,0.67,0.201,0.129,Restaurant CEO who says Anthony Bourdain changed his life donates 100% of profits to suicide hotline… https://t.co/tdSKsQNKrU,93,@CBSNews
+0.2263,Sun Jun 10 17:00:01 +0000 2018,0.773,0.094,0.133,"Citing Democrats' exclusion from summit preparations, Sen. Ed Markey said it would be wise for President Trump to c… https://t.co/mMaKTH1gBt",94,@CBSNews
+0.1779,Sun Jun 10 16:54:46 +0000 2018,0.642,0.16,0.198,"Rafael Nadal wins 11th French Open title, beating Dominic Thiem in 3 sets https://t.co/jAh9oMSDep https://t.co/AWWC9e2z4t",95,@CBSNews
+-0.3182,Sun Jun 10 16:40:07 +0000 2018,0.905,0.095,0.0,"MOOSE MAYHEM: When a baby moose got loose on this Alaska highway, several people got out of their cars to try and c… https://t.co/iwou64tPid",96,@CBSNews
+-0.2182,Sun Jun 10 16:27:56 +0000 2018,0.824,0.129,0.048,"""The fact of the matter is that I believe the North Koreans were not prepared to be serious under Kim Jong"": Susan… https://t.co/OrGTQod0p9",97,@CBSNews
+-0.5256,Sun Jun 10 16:19:48 +0000 2018,0.855,0.145,0.0,"Susan Rice said that the U.S now finds itself in a ""very dangerous moment"" as President Trump appears to be further… https://t.co/ZGetB9Fu8i",98,@CBSNews
+0.0,Sun Jun 10 16:10:29 +0000 2018,1.0,0.0,0.0,"North Korea summit must be more than ""one-and-done"" negotiation between Trump and Kim Jong Un, Susan Rice says on F… https://t.co/qsxFeDg2Tn",99,@CBSNews
+0.631,Sun Jun 10 16:00:09 +0000 2018,0.795,0.0,0.205,"You’ve heard about the caravan of migrants hoping to enter the U.S., but you’ve never seen their story like this. S… https://t.co/d1JUOvi4BA",100,@CBSNews
+=======
 Compound,Date,Negative,Neutral,Positive,Text,Tweets_Ago,Username
 0.0,Wed Jun 06 17:49:26 +0000 2018,1.0,0.0,0.0,".@newtgingrich: ""It's a traffic jam [@TheDemocrats] created."" #OutnumberedOT https://t.co/h1UrQ0vBaG",1,@FoxNews
 -0.8176,Wed Jun 06 17:45:15 +0000 2018,0.615,0.385,0.0,Woman pleads guilty to making up rape allegations against two college football players https://t.co/tNyBNuwGvI,2,@FoxNews
@@ -549,3 +1137,4 @@ Public inquiry into #GrenfellTower fire hears man who lived in flat where… htt
 0.0,Wed Jun 06 14:39:48 +0000 2018,1.0,0.0,0.0,"""I'm not discussing it. It's over. What you have seen and what you heard is enough,"" Philadelphia Eagles coach Doug… https://t.co/DynG4hFy9y",98,@CBSNews
 0.0,Wed Jun 06 14:37:52 +0000 2018,1.0,0.0,0.0,MOMENTS AGO: Philadelphia Eagles' coach Doug Pederson is talking to the press for the first time since the team was… https://t.co/Py0j25blzT,99,@CBSNews
 -0.4767,Wed Jun 06 14:20:56 +0000 2018,0.725,0.213,0.063,California voters recall judge who sentenced Brock Turner to short jail sentence for sexually assaulting a young wo… https://t.co/ytfSdZ1Tde,100,@CBSNews
+>>>>>>> f568aa232b4beb1575b7b4d68ce4a67467771a11

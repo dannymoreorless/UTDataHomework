@@ -1,6 +1,5 @@
 
-# Media Sentiment Analysis Using Twitter
-## Analysis:
+# Analysis:
 * The sentiment analysis can have different results depending on the number of tweets one examines. A trend that I've noticed while testing the code numerous times is that Fox News tends to have a more negative polarity in their tweets when compared to other news outlets.
 * As I stated above, the sentiment analysis can be flawed because at one moment Fox could be more negative than the media outlets, but if one were to run the code again in 30 minutes, or an hour, the results could be altered drastically.
 * One method to improve the sentiment analysis would be to use more randomly sampled tweets over a greater span of time. Doing so would remove the bias that could be coming into play when there is a tragedy or a politically charged event occuring, or having just occurred.
@@ -28,7 +27,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth, parser=tweepy.parsers.JSONParser())
 ```
 
-## Tweepy Calls & Sentiment Analysis
+# Tweepy Calls & Sentiment Analysis
 
 
 ```python
@@ -59,7 +58,7 @@ for user in target_user:
             counter += 1
 ```
 
-## Make Data Frame & Convert into CSV
+# Make Data Frame & Convert into CSV
 
 
 ```python
@@ -103,331 +102,331 @@ sentiments_pd
   <tbody>
     <tr>
       <th>0</th>
-      <td>-0.4767</td>
-      <td>Sun Jun 10 20:03:02 +0000 2018</td>
-      <td>0.846</td>
-      <td>0.154</td>
+      <td>-0.7717</td>
+      <td>Fri Jul 13 03:15:00 +0000 2018</td>
+      <td>0.628</td>
+      <td>0.372</td>
       <td>0.000</td>
-      <td>The Manhattan Beach Police Department has rele...</td>
+      <td>Samantha Bee speaks out about crude Ivanka Tru...</td>
       <td>1</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>0.6249</td>
-      <td>Sun Jun 10 20:00:01 +0000 2018</td>
-      <td>0.688</td>
-      <td>0.073</td>
-      <td>0.239</td>
-      <td>.@marykissel: "A success in Singapore would be...</td>
+      <td>-0.6249</td>
+      <td>Fri Jul 13 03:05:00 +0000 2018</td>
+      <td>0.579</td>
+      <td>0.421</td>
+      <td>0.000</td>
+      <td>Border Patrol arrests suspect in deadly Texas ...</td>
       <td>2</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>2</th>
       <td>0.0000</td>
-      <td>Sun Jun 10 19:55:00 +0000 2018</td>
+      <td>Fri Jul 13 02:59:00 +0000 2018</td>
       <td>1.000</td>
       <td>0.000</td>
       <td>0.000</td>
-      <td>U.S. markets so far this year. https://t.co/fC...</td>
+      <td>Dems who drafted bill to abolish ICE now say t...</td>
       <td>3</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>-0.4404</td>
-      <td>Sun Jun 10 19:46:35 +0000 2018</td>
-      <td>0.674</td>
-      <td>0.326</td>
+      <td>-0.1531</td>
+      <td>Fri Jul 13 02:51:42 +0000 2018</td>
+      <td>0.890</td>
+      <td>0.110</td>
       <td>0.000</td>
-      <td>Coyote attacks teenager in Massachusetts: repo...</td>
+      <td>Rudy Giuliani: "The Mueller investigation is f...</td>
       <td>4</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>-0.0772</td>
-      <td>Sun Jun 10 19:45:07 +0000 2018</td>
-      <td>0.695</td>
-      <td>0.160</td>
-      <td>0.144</td>
-      <td>Pilot who landed plane after co-pilot was 'suc...</td>
+      <td>0.0000</td>
+      <td>Fri Jul 13 02:49:34 +0000 2018</td>
+      <td>1.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>Rudy Giuliani: "To this day they can't find a ...</td>
       <td>5</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>-0.5859</td>
-      <td>Sun Jun 10 19:45:00 +0000 2018</td>
-      <td>0.609</td>
-      <td>0.278</td>
-      <td>0.113</td>
-      <td>.@VP on Singapore summit: "After years of fail...</td>
+      <td>0.0000</td>
+      <td>Fri Jul 13 02:47:02 +0000 2018</td>
+      <td>1.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>Rudy Giuliani on status of a potential @POTUS ...</td>
       <td>6</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>6</th>
       <td>0.0000</td>
-      <td>Sun Jun 10 19:44:16 +0000 2018</td>
+      <td>Fri Jul 13 02:41:09 +0000 2018</td>
       <td>1.000</td>
       <td>0.000</td>
       <td>0.000</td>
-      <td>RT @EricShawnTV: I anchor at 4pm @FoxNews alon...</td>
+      <td>Rudy Giuliani on the Mueller probe: "[Peter St...</td>
       <td>7</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>-0.7650</td>
-      <td>Sun Jun 10 19:29:18 +0000 2018</td>
-      <td>0.513</td>
-      <td>0.487</td>
+      <td>0.0000</td>
+      <td>Fri Jul 13 02:33:00 +0000 2018</td>
+      <td>1.000</td>
       <td>0.000</td>
-      <td>Vince Vaughn arrested in California on DUI, re...</td>
+      <td>0.000</td>
+      <td>Jury convicts key players in corruption case l...</td>
       <td>8</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>0.0000</td>
-      <td>Sun Jun 10 19:20:47 +0000 2018</td>
-      <td>1.000</td>
+      <td>-0.5574</td>
+      <td>Fri Jul 13 02:25:43 +0000 2018</td>
+      <td>0.816</td>
+      <td>0.184</td>
       <td>0.000</td>
-      <td>0.000</td>
-      <td>"Our president is on schedule to forge a relat...</td>
+      <td>.@TGowdySC on alleged FISA abuses: "A politici...</td>
       <td>9</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>9</th>
-      <td>0.3612</td>
-      <td>Sun Jun 10 19:14:32 +0000 2018</td>
-      <td>0.884</td>
+      <td>-0.1027</td>
+      <td>Fri Jul 13 02:20:26 +0000 2018</td>
+      <td>0.935</td>
+      <td>0.065</td>
       <td>0.000</td>
-      <td>0.116</td>
-      <td>.@POTUS: "Tariffs are going to come way down.....</td>
+      <td>.@TGowdySC on Strzok hearing: "He's the only p...</td>
       <td>10</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>10</th>
-      <td>-0.5994</td>
-      <td>Sun Jun 10 19:13:45 +0000 2018</td>
-      <td>0.782</td>
-      <td>0.218</td>
-      <td>0.000</td>
-      <td>.@SecretaryZinke: "We could end the war. It's ...</td>
+      <td>-0.1027</td>
+      <td>Fri Jul 13 02:20:00 +0000 2018</td>
+      <td>0.759</td>
+      <td>0.107</td>
+      <td>0.134</td>
+      <td>Border patrol agents say they are alarmed by t...</td>
       <td>11</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>11</th>
-      <td>-0.7906</td>
-      <td>Sun Jun 10 19:04:55 +0000 2018</td>
-      <td>0.562</td>
-      <td>0.438</td>
+      <td>0.5267</td>
+      <td>Fri Jul 13 02:15:03 +0000 2018</td>
+      <td>0.848</td>
       <td>0.000</td>
-      <td>Ohio house explosion leaves 1 dead, another cr...</td>
+      <td>0.152</td>
+      <td>.@RepMattGaetz on Strzok hearing: "We are only...</td>
       <td>12</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>12</th>
-      <td>-0.2960</td>
-      <td>Sun Jun 10 18:55:34 +0000 2018</td>
-      <td>0.699</td>
-      <td>0.183</td>
-      <td>0.118</td>
-      <td>.@amazon admits to labor violations at factory...</td>
+      <td>0.3818</td>
+      <td>Fri Jul 13 02:15:01 +0000 2018</td>
+      <td>0.729</td>
+      <td>0.000</td>
+      <td>0.271</td>
+      <td>Stunning biblical 'spies' mosaic discovered in...</td>
       <td>13</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>13</th>
-      <td>-0.3818</td>
-      <td>Sun Jun 10 18:51:38 +0000 2018</td>
-      <td>0.490</td>
-      <td>0.265</td>
-      <td>0.245</td>
-      <td>Peter Navarro: "There's a special place in hel...</td>
+      <td>0.4588</td>
+      <td>Fri Jul 13 02:13:26 +0000 2018</td>
+      <td>0.750</td>
+      <td>0.000</td>
+      <td>0.250</td>
+      <td>.@RepMarkMeadows: "Today Peter Strzok's luck r...</td>
       <td>14</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>14</th>
-      <td>-0.7579</td>
-      <td>Sun Jun 10 18:43:32 +0000 2018</td>
-      <td>0.667</td>
-      <td>0.333</td>
+      <td>0.0000</td>
+      <td>Fri Jul 13 02:07:45 +0000 2018</td>
+      <td>1.000</td>
       <td>0.000</td>
-      <td>Sen. @OrrinHatch: North Korea should abandon h...</td>
+      <td>0.000</td>
+      <td>.@seanhannity: "Mr. Strzok, you are not the 99...</td>
       <td>15</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>15</th>
-      <td>-0.5267</td>
-      <td>Sun Jun 10 18:37:19 +0000 2018</td>
-      <td>0.746</td>
-      <td>0.254</td>
+      <td>-0.4767</td>
+      <td>Fri Jul 13 02:07:12 +0000 2018</td>
+      <td>0.744</td>
+      <td>0.256</td>
       <td>0.000</td>
-      <td>Dem Strategist Slams Trump's 'Behavior' in Off...</td>
+      <td>Emmys 2018 snubs, from Meghan Markle to Emilia...</td>
       <td>16</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>16</th>
-      <td>-0.6369</td>
-      <td>Sun Jun 10 18:30:29 +0000 2018</td>
-      <td>0.634</td>
-      <td>0.366</td>
+      <td>-0.4939</td>
+      <td>Fri Jul 13 02:02:29 +0000 2018</td>
+      <td>0.833</td>
+      <td>0.167</td>
       <td>0.000</td>
-      <td>Lawyer in pasta assault must pay woman $103G, ...</td>
+      <td>Conservative Business Insider writer quits ins...</td>
       <td>17</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>17</th>
-      <td>0.0000</td>
-      <td>Sun Jun 10 18:26:00 +0000 2018</td>
-      <td>1.000</td>
+      <td>-0.4215</td>
+      <td>Fri Jul 13 01:58:26 +0000 2018</td>
+      <td>0.781</td>
+      <td>0.219</td>
       <td>0.000</td>
-      <td>0.000</td>
-      <td>TONIGHT: @BretBaier is live in Singapore ahead...</td>
+      <td>.@piersmorgan on Britons Protesting Trump: 'Ob...</td>
       <td>18</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>18</th>
-      <td>-0.5719</td>
-      <td>Sun Jun 10 18:09:05 +0000 2018</td>
-      <td>0.583</td>
-      <td>0.291</td>
-      <td>0.126</td>
-      <td>'Dancing' Georgia doctor is suspended by medic...</td>
+      <td>-0.0258</td>
+      <td>Fri Jul 13 01:54:00 +0000 2018</td>
+      <td>0.573</td>
+      <td>0.217</td>
+      <td>0.210</td>
+      <td>California man trapped in cement mixer trigger...</td>
       <td>19</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>19</th>
-      <td>0.0000</td>
-      <td>Sun Jun 10 17:58:00 +0000 2018</td>
-      <td>1.000</td>
+      <td>-0.3818</td>
+      <td>Fri Jul 13 01:48:00 +0000 2018</td>
+      <td>0.822</td>
+      <td>0.178</td>
       <td>0.000</td>
-      <td>0.000</td>
-      <td>Woman dies 10 days after her husband of 46 yea...</td>
+      <td>NC town battles opioid epidemic by using robot...</td>
       <td>20</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>20</th>
-      <td>-0.4767</td>
-      <td>Sun Jun 10 20:03:02 +0000 2018</td>
-      <td>0.846</td>
-      <td>0.154</td>
+      <td>-0.7717</td>
+      <td>Fri Jul 13 03:15:00 +0000 2018</td>
+      <td>0.628</td>
+      <td>0.372</td>
       <td>0.000</td>
-      <td>The Manhattan Beach Police Department has rele...</td>
+      <td>Samantha Bee speaks out about crude Ivanka Tru...</td>
       <td>21</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>21</th>
-      <td>0.6249</td>
-      <td>Sun Jun 10 20:00:01 +0000 2018</td>
-      <td>0.688</td>
-      <td>0.073</td>
-      <td>0.239</td>
-      <td>.@marykissel: "A success in Singapore would be...</td>
+      <td>-0.6249</td>
+      <td>Fri Jul 13 03:05:00 +0000 2018</td>
+      <td>0.579</td>
+      <td>0.421</td>
+      <td>0.000</td>
+      <td>Border Patrol arrests suspect in deadly Texas ...</td>
       <td>22</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>22</th>
       <td>0.0000</td>
-      <td>Sun Jun 10 19:55:00 +0000 2018</td>
+      <td>Fri Jul 13 02:59:00 +0000 2018</td>
       <td>1.000</td>
       <td>0.000</td>
       <td>0.000</td>
-      <td>U.S. markets so far this year. https://t.co/fC...</td>
+      <td>Dems who drafted bill to abolish ICE now say t...</td>
       <td>23</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>23</th>
-      <td>-0.4404</td>
-      <td>Sun Jun 10 19:46:35 +0000 2018</td>
-      <td>0.674</td>
-      <td>0.326</td>
+      <td>-0.1531</td>
+      <td>Fri Jul 13 02:51:42 +0000 2018</td>
+      <td>0.890</td>
+      <td>0.110</td>
       <td>0.000</td>
-      <td>Coyote attacks teenager in Massachusetts: repo...</td>
+      <td>Rudy Giuliani: "The Mueller investigation is f...</td>
       <td>24</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>24</th>
-      <td>-0.0772</td>
-      <td>Sun Jun 10 19:45:07 +0000 2018</td>
-      <td>0.695</td>
-      <td>0.160</td>
-      <td>0.144</td>
-      <td>Pilot who landed plane after co-pilot was 'suc...</td>
+      <td>0.0000</td>
+      <td>Fri Jul 13 02:49:34 +0000 2018</td>
+      <td>1.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>Rudy Giuliani: "To this day they can't find a ...</td>
       <td>25</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>25</th>
-      <td>-0.5859</td>
-      <td>Sun Jun 10 19:45:00 +0000 2018</td>
-      <td>0.609</td>
-      <td>0.278</td>
-      <td>0.113</td>
-      <td>.@VP on Singapore summit: "After years of fail...</td>
+      <td>0.0000</td>
+      <td>Fri Jul 13 02:47:02 +0000 2018</td>
+      <td>1.000</td>
+      <td>0.000</td>
+      <td>0.000</td>
+      <td>Rudy Giuliani on status of a potential @POTUS ...</td>
       <td>26</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>26</th>
       <td>0.0000</td>
-      <td>Sun Jun 10 19:44:16 +0000 2018</td>
+      <td>Fri Jul 13 02:41:09 +0000 2018</td>
       <td>1.000</td>
       <td>0.000</td>
       <td>0.000</td>
-      <td>RT @EricShawnTV: I anchor at 4pm @FoxNews alon...</td>
+      <td>Rudy Giuliani on the Mueller probe: "[Peter St...</td>
       <td>27</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>27</th>
-      <td>-0.7650</td>
-      <td>Sun Jun 10 19:29:18 +0000 2018</td>
-      <td>0.513</td>
-      <td>0.487</td>
+      <td>0.0000</td>
+      <td>Fri Jul 13 02:33:00 +0000 2018</td>
+      <td>1.000</td>
       <td>0.000</td>
-      <td>Vince Vaughn arrested in California on DUI, re...</td>
+      <td>0.000</td>
+      <td>Jury convicts key players in corruption case l...</td>
       <td>28</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>28</th>
-      <td>0.0000</td>
-      <td>Sun Jun 10 19:20:47 +0000 2018</td>
-      <td>1.000</td>
+      <td>-0.5574</td>
+      <td>Fri Jul 13 02:25:43 +0000 2018</td>
+      <td>0.816</td>
+      <td>0.184</td>
       <td>0.000</td>
-      <td>0.000</td>
-      <td>"Our president is on schedule to forge a relat...</td>
+      <td>.@TGowdySC on alleged FISA abuses: "A politici...</td>
       <td>29</td>
       <td>@FoxNews</td>
     </tr>
     <tr>
       <th>29</th>
-      <td>0.3612</td>
-      <td>Sun Jun 10 19:14:32 +0000 2018</td>
-      <td>0.884</td>
+      <td>-0.1027</td>
+      <td>Fri Jul 13 02:20:26 +0000 2018</td>
+      <td>0.935</td>
+      <td>0.065</td>
       <td>0.000</td>
-      <td>0.116</td>
-      <td>.@POTUS: "Tariffs are going to come way down.....</td>
+      <td>.@TGowdySC on Strzok hearing: "He's the only p...</td>
       <td>30</td>
       <td>@FoxNews</td>
     </tr>
@@ -444,331 +443,331 @@ sentiments_pd
     </tr>
     <tr>
       <th>470</th>
-      <td>-0.6044</td>
-      <td>Sun Jun 10 17:34:18 +0000 2018</td>
-      <td>0.771</td>
-      <td>0.229</td>
+      <td>-0.3400</td>
+      <td>Fri Jul 13 00:00:02 +0000 2018</td>
+      <td>0.893</td>
+      <td>0.107</td>
       <td>0.000</td>
-      <td>"What's not in good faith is when you leave th...</td>
+      <td>"We have enough difficulty with the European U...</td>
       <td>71</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>471</th>
-      <td>-0.1695</td>
-      <td>Sun Jun 10 17:22:51 +0000 2018</td>
-      <td>0.926</td>
-      <td>0.074</td>
+      <td>-0.8402</td>
+      <td>Thu Jul 12 23:43:15 +0000 2018</td>
+      <td>0.609</td>
+      <td>0.391</td>
       <td>0.000</td>
-      <td>"He's not going to allow the people to suddenl...</td>
+      <td>Man seen on video berating woman wearing a Pue...</td>
       <td>72</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>472</th>
-      <td>-0.3818</td>
-      <td>Sun Jun 10 17:19:39 +0000 2018</td>
-      <td>0.670</td>
-      <td>0.201</td>
-      <td>0.129</td>
-      <td>Restaurant CEO who says Anthony Bourdain chang...</td>
+      <td>0.2071</td>
+      <td>Thu Jul 12 23:27:09 +0000 2018</td>
+      <td>0.625</td>
+      <td>0.171</td>
+      <td>0.203</td>
+      <td>"Say it loud, say it clear: Donald Trump's not...</td>
       <td>73</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>473</th>
-      <td>0.2263</td>
-      <td>Sun Jun 10 17:00:01 +0000 2018</td>
-      <td>0.773</td>
-      <td>0.094</td>
-      <td>0.133</td>
-      <td>Citing Democrats' exclusion from summit prepar...</td>
+      <td>0.6369</td>
+      <td>Thu Jul 12 23:03:14 +0000 2018</td>
+      <td>0.802</td>
+      <td>0.000</td>
+      <td>0.198</td>
+      <td>Cops in Sync: Police officers all over the cou...</td>
       <td>74</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>474</th>
-      <td>0.1779</td>
-      <td>Sun Jun 10 16:54:46 +0000 2018</td>
-      <td>0.642</td>
-      <td>0.160</td>
-      <td>0.198</td>
-      <td>Rafael Nadal wins 11th French Open title, beat...</td>
+      <td>-0.5423</td>
+      <td>Thu Jul 12 22:54:11 +0000 2018</td>
+      <td>0.800</td>
+      <td>0.200</td>
+      <td>0.000</td>
+      <td>RT @CBSEveningNews: Charges against adult film...</td>
       <td>75</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>475</th>
-      <td>-0.3182</td>
-      <td>Sun Jun 10 16:40:07 +0000 2018</td>
-      <td>0.905</td>
-      <td>0.095</td>
+      <td>-0.3818</td>
+      <td>Thu Jul 12 22:53:53 +0000 2018</td>
+      <td>0.902</td>
+      <td>0.098</td>
       <td>0.000</td>
-      <td>MOOSE MAYHEM: When a baby moose got loose on t...</td>
+      <td>Out with the old, in with the new: Air Force O...</td>
       <td>76</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>476</th>
-      <td>-0.2182</td>
-      <td>Sun Jun 10 16:27:56 +0000 2018</td>
-      <td>0.824</td>
-      <td>0.129</td>
-      <td>0.048</td>
-      <td>"The fact of the matter is that I believe the ...</td>
+      <td>-0.6908</td>
+      <td>Thu Jul 12 22:47:55 +0000 2018</td>
+      <td>0.810</td>
+      <td>0.190</td>
+      <td>0.000</td>
+      <td>“It is the most infamous civil rights case in ...</td>
       <td>77</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>477</th>
-      <td>-0.5256</td>
-      <td>Sun Jun 10 16:19:48 +0000 2018</td>
-      <td>0.855</td>
-      <td>0.145</td>
+      <td>-0.2263</td>
+      <td>Thu Jul 12 22:44:13 +0000 2018</td>
+      <td>0.921</td>
+      <td>0.079</td>
       <td>0.000</td>
-      <td>Susan Rice said that the U.S now finds itself ...</td>
+      <td>RT @CBSEveningNews: Protesters took to the str...</td>
       <td>78</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>478</th>
-      <td>0.0000</td>
-      <td>Sun Jun 10 16:10:29 +0000 2018</td>
-      <td>1.000</td>
+      <td>0.4310</td>
+      <td>Thu Jul 12 22:41:59 +0000 2018</td>
+      <td>0.875</td>
       <td>0.000</td>
-      <td>0.000</td>
-      <td>North Korea summit must be more than "one-and-...</td>
+      <td>0.125</td>
+      <td>President Trump calls Putin a “competitor,” no...</td>
       <td>79</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>479</th>
-      <td>0.6310</td>
-      <td>Sun Jun 10 16:00:09 +0000 2018</td>
-      <td>0.795</td>
+      <td>-0.7184</td>
+      <td>Thu Jul 12 22:36:53 +0000 2018</td>
+      <td>0.684</td>
+      <td>0.316</td>
       <td>0.000</td>
-      <td>0.205</td>
-      <td>You’ve heard about the caravan of migrants hop...</td>
+      <td>Yelling, accusations and chaos: Former FBI age...</td>
       <td>80</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>480</th>
-      <td>0.5106</td>
-      <td>Sun Jun 10 19:59:48 +0000 2018</td>
-      <td>0.837</td>
+      <td>-0.7650</td>
+      <td>Fri Jul 13 03:18:03 +0000 2018</td>
+      <td>0.663</td>
+      <td>0.337</td>
       <td>0.000</td>
-      <td>0.163</td>
-      <td>Nearly nine months after Hurricane Maria rocke...</td>
+      <td>Man arrested after 800-pound boulder falls off...</td>
       <td>81</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>481</th>
-      <td>-0.6597</td>
-      <td>Sun Jun 10 19:40:01 +0000 2018</td>
-      <td>0.758</td>
-      <td>0.242</td>
+      <td>-0.5859</td>
+      <td>Fri Jul 13 03:03:04 +0000 2018</td>
+      <td>0.730</td>
+      <td>0.270</td>
       <td>0.000</td>
-      <td>As the Miss America moves away from its pagean...</td>
+      <td>"Mistake was made" in Stormy Daniels' strip cl...</td>
       <td>82</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>482</th>
-      <td>-0.2960</td>
-      <td>Sun Jun 10 19:19:53 +0000 2018</td>
-      <td>0.885</td>
-      <td>0.115</td>
+      <td>0.2648</td>
+      <td>Fri Jul 13 02:39:44 +0000 2018</td>
+      <td>0.897</td>
       <td>0.000</td>
-      <td>Lauren Ridloff, a stay-at-home mom with no pro...</td>
+      <td>0.103</td>
+      <td>The Egyptian Ministry of Antiquities announced...</td>
       <td>83</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>483</th>
-      <td>-0.8126</td>
-      <td>Sun Jun 10 18:59:36 +0000 2018</td>
-      <td>0.656</td>
-      <td>0.344</td>
+      <td>0.5267</td>
+      <td>Fri Jul 13 02:19:44 +0000 2018</td>
+      <td>0.841</td>
       <td>0.000</td>
-      <td>Suicide is escalating throughout the U.S.— exp...</td>
+      <td>0.159</td>
+      <td>The Department of Justice said Thursday it wou...</td>
       <td>84</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>484</th>
-      <td>-0.3182</td>
-      <td>Sun Jun 10 18:59:35 +0000 2018</td>
-      <td>0.881</td>
-      <td>0.119</td>
+      <td>0.0000</td>
+      <td>Fri Jul 13 02:00:02 +0000 2018</td>
+      <td>1.000</td>
       <td>0.000</td>
-      <td>Hurricane Aletta weakened rapidly to a Categor...</td>
+      <td>0.000</td>
+      <td>The Trump administration has sent evidence to ...</td>
       <td>85</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>485</th>
-      <td>-0.7184</td>
-      <td>Sun Jun 10 18:40:11 +0000 2018</td>
-      <td>0.760</td>
-      <td>0.240</td>
-      <td>0.000</td>
-      <td>WATCH: When this man got pulled over for alleg...</td>
+      <td>-0.0772</td>
+      <td>Fri Jul 13 01:39:54 +0000 2018</td>
+      <td>0.596</td>
+      <td>0.230</td>
+      <td>0.174</td>
+      <td>The great Twitter purge has begun — and famous...</td>
       <td>86</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>486</th>
-      <td>-0.4215</td>
-      <td>Sun Jun 10 18:19:39 +0000 2018</td>
-      <td>0.714</td>
-      <td>0.179</td>
-      <td>0.107</td>
-      <td>The American special forces soldier killed in ...</td>
+      <td>-0.4939</td>
+      <td>Fri Jul 13 01:19:36 +0000 2018</td>
+      <td>0.842</td>
+      <td>0.158</td>
+      <td>0.000</td>
+      <td>American painter Robert Motherwell had numerou...</td>
       <td>87</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>487</th>
-      <td>0.0000</td>
-      <td>Sun Jun 10 18:00:14 +0000 2018</td>
-      <td>0.827</td>
-      <td>0.087</td>
-      <td>0.087</td>
-      <td>With only $10 in his pocket and no prospect of...</td>
+      <td>-0.2960</td>
+      <td>Fri Jul 13 00:59:51 +0000 2018</td>
+      <td>0.885</td>
+      <td>0.115</td>
+      <td>0.000</td>
+      <td>High blood pressure later in life may contribu...</td>
       <td>88</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>488</th>
-      <td>0.0000</td>
-      <td>Sun Jun 10 17:46:36 +0000 2018</td>
-      <td>1.000</td>
+      <td>-0.2263</td>
+      <td>Fri Jul 13 00:39:31 +0000 2018</td>
+      <td>0.899</td>
+      <td>0.101</td>
       <td>0.000</td>
-      <td>0.000</td>
-      <td>@margbrennan "They were kicked out after invad...</td>
+      <td>A lawsuit brought against Ben &amp;amp; Jerry's by...</td>
       <td>89</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>489</th>
-      <td>0.1280</td>
-      <td>Sun Jun 10 17:39:32 +0000 2018</td>
-      <td>0.754</td>
-      <td>0.111</td>
-      <td>0.136</td>
-      <td>Kenneth Starr says there's "no question" there...</td>
+      <td>-0.2732</td>
+      <td>Fri Jul 13 00:20:54 +0000 2018</td>
+      <td>0.644</td>
+      <td>0.214</td>
+      <td>0.142</td>
+      <td>Everyone thinks their city's pizza is the best...</td>
       <td>90</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>490</th>
-      <td>-0.6044</td>
-      <td>Sun Jun 10 17:34:18 +0000 2018</td>
-      <td>0.771</td>
-      <td>0.229</td>
+      <td>-0.3400</td>
+      <td>Fri Jul 13 00:00:02 +0000 2018</td>
+      <td>0.893</td>
+      <td>0.107</td>
       <td>0.000</td>
-      <td>"What's not in good faith is when you leave th...</td>
+      <td>"We have enough difficulty with the European U...</td>
       <td>91</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>491</th>
-      <td>-0.1695</td>
-      <td>Sun Jun 10 17:22:51 +0000 2018</td>
-      <td>0.926</td>
-      <td>0.074</td>
+      <td>-0.8402</td>
+      <td>Thu Jul 12 23:43:15 +0000 2018</td>
+      <td>0.609</td>
+      <td>0.391</td>
       <td>0.000</td>
-      <td>"He's not going to allow the people to suddenl...</td>
+      <td>Man seen on video berating woman wearing a Pue...</td>
       <td>92</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>492</th>
-      <td>-0.3818</td>
-      <td>Sun Jun 10 17:19:39 +0000 2018</td>
-      <td>0.670</td>
-      <td>0.201</td>
-      <td>0.129</td>
-      <td>Restaurant CEO who says Anthony Bourdain chang...</td>
+      <td>0.2071</td>
+      <td>Thu Jul 12 23:27:09 +0000 2018</td>
+      <td>0.625</td>
+      <td>0.171</td>
+      <td>0.203</td>
+      <td>"Say it loud, say it clear: Donald Trump's not...</td>
       <td>93</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>493</th>
-      <td>0.2263</td>
-      <td>Sun Jun 10 17:00:01 +0000 2018</td>
-      <td>0.773</td>
-      <td>0.094</td>
-      <td>0.133</td>
-      <td>Citing Democrats' exclusion from summit prepar...</td>
+      <td>0.6369</td>
+      <td>Thu Jul 12 23:03:14 +0000 2018</td>
+      <td>0.802</td>
+      <td>0.000</td>
+      <td>0.198</td>
+      <td>Cops in Sync: Police officers all over the cou...</td>
       <td>94</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>494</th>
-      <td>0.1779</td>
-      <td>Sun Jun 10 16:54:46 +0000 2018</td>
-      <td>0.642</td>
-      <td>0.160</td>
-      <td>0.198</td>
-      <td>Rafael Nadal wins 11th French Open title, beat...</td>
+      <td>-0.5423</td>
+      <td>Thu Jul 12 22:54:11 +0000 2018</td>
+      <td>0.800</td>
+      <td>0.200</td>
+      <td>0.000</td>
+      <td>RT @CBSEveningNews: Charges against adult film...</td>
       <td>95</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>495</th>
-      <td>-0.3182</td>
-      <td>Sun Jun 10 16:40:07 +0000 2018</td>
-      <td>0.905</td>
-      <td>0.095</td>
+      <td>-0.3818</td>
+      <td>Thu Jul 12 22:53:53 +0000 2018</td>
+      <td>0.902</td>
+      <td>0.098</td>
       <td>0.000</td>
-      <td>MOOSE MAYHEM: When a baby moose got loose on t...</td>
+      <td>Out with the old, in with the new: Air Force O...</td>
       <td>96</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>496</th>
-      <td>-0.2182</td>
-      <td>Sun Jun 10 16:27:56 +0000 2018</td>
-      <td>0.824</td>
-      <td>0.129</td>
-      <td>0.048</td>
-      <td>"The fact of the matter is that I believe the ...</td>
+      <td>-0.6908</td>
+      <td>Thu Jul 12 22:47:55 +0000 2018</td>
+      <td>0.810</td>
+      <td>0.190</td>
+      <td>0.000</td>
+      <td>“It is the most infamous civil rights case in ...</td>
       <td>97</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>497</th>
-      <td>-0.5256</td>
-      <td>Sun Jun 10 16:19:48 +0000 2018</td>
-      <td>0.855</td>
-      <td>0.145</td>
+      <td>-0.2263</td>
+      <td>Thu Jul 12 22:44:13 +0000 2018</td>
+      <td>0.921</td>
+      <td>0.079</td>
       <td>0.000</td>
-      <td>Susan Rice said that the U.S now finds itself ...</td>
+      <td>RT @CBSEveningNews: Protesters took to the str...</td>
       <td>98</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>498</th>
-      <td>0.0000</td>
-      <td>Sun Jun 10 16:10:29 +0000 2018</td>
-      <td>1.000</td>
+      <td>0.4310</td>
+      <td>Thu Jul 12 22:41:59 +0000 2018</td>
+      <td>0.875</td>
       <td>0.000</td>
-      <td>0.000</td>
-      <td>North Korea summit must be more than "one-and-...</td>
+      <td>0.125</td>
+      <td>President Trump calls Putin a “competitor,” no...</td>
       <td>99</td>
       <td>@CBSNews</td>
     </tr>
     <tr>
       <th>499</th>
-      <td>0.6310</td>
-      <td>Sun Jun 10 16:00:09 +0000 2018</td>
-      <td>0.795</td>
+      <td>-0.7184</td>
+      <td>Thu Jul 12 22:36:53 +0000 2018</td>
+      <td>0.684</td>
+      <td>0.316</td>
       <td>0.000</td>
-      <td>0.205</td>
-      <td>You’ve heard about the caravan of migrants hop...</td>
+      <td>Yelling, accusations and chaos: Former FBI age...</td>
       <td>100</td>
       <td>@CBSNews</td>
     </tr>
@@ -836,27 +835,27 @@ avg_sentiments_df
     <tr>
       <th>0</th>
       <td>@BBCNews</td>
-      <td>0.121335</td>
+      <td>-0.051170</td>
     </tr>
     <tr>
       <th>1</th>
       <td>@CBSNews</td>
-      <td>-0.188515</td>
+      <td>-0.219540</td>
     </tr>
     <tr>
       <th>2</th>
       <td>@CNN</td>
-      <td>-0.055955</td>
+      <td>0.013900</td>
     </tr>
     <tr>
       <th>3</th>
       <td>@FoxNews</td>
-      <td>-0.296015</td>
+      <td>-0.137245</td>
     </tr>
     <tr>
       <th>4</th>
       <td>@nytimes</td>
-      <td>0.033895</td>
+      <td>-0.114170</td>
     </tr>
   </tbody>
 </table>
@@ -864,8 +863,8 @@ avg_sentiments_df
 
 
 
-## Scatter Plot
-### Shows the tweet sentiments of the tweets from each news outlet
+# Scatter Plot
+Shows the tweet sentiments of the tweets from each news outlet
 
 
 ```python
@@ -893,8 +892,8 @@ plt.show()
 ![png](output_9_0.png)
 
 
-## Bar Chart
-### Highlights the overall tweet sentiments for various news outlets
+# Bar Chart
+Highlights the overall tweet sentiments for various news outlets# 
 
 
 ```python
